@@ -1,0 +1,312 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>DCA  8630-5/01 - Cirúrgico</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View></w:WordDocument></xml><![endif]-->
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222}h1{color:#1F3A5F;font-size:18pt}h2{color:#2E4A6E;font-size:14pt;margin-top:18pt}h3{color:#3A5A7A;font-size:12pt;margin-top:14pt}.meta{color:#666;font-size:9pt}.req{color:#c00}.q{margin-top:10pt;font-weight:bold}.hint{color:#888;font-size:9pt}.sub{font-style:italic;font-size:10pt}</style></head><body>
+<h1>DCA  8630-5/01 - Cirúrgico</h1>
+<p class="meta">Fonte: Microsoft Forms | Status: Active | Idioma: pt-BR | Criado: 2024-10-18T13:22:46.9Z | Modificado: 2025-08-18T14:17:33.653Z</p>
+<h2>Descrição</h2>
+<p>Compreende: As atividades de consultas e tratamento médico prestadas a pacientes que não estão sob regime de internação. Os locais de realização destas atividades são em consultórios, ambulatórios, clínicas médicas especializadas, policlínicas, desde que sejam equipados para a realização de procedimentos cirúrgicos;<br><br>Preencher essa planilha de forma eletrônica. Depois de devidamente preenchida, uma resposta automática com os resultados irá chegar em sua caixa de entrada(e-mail), assiná-la e encaminhá-la juntamente com a solicitação de Licenciamento</p>
+<h2>Perguntas (54)</h2>
+<p class="q">1. RAZÃO SOCIAL OU NOME: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">2. CNPJ OU CPF: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">(CNPJ - O campo deve ser preenchido apenas com números, no formato XX.XXX.XXX/XXXX-XX e com 14 dígitos)<br>(CPF - O campo deve ser preenchido apenas com números, no formato XXX.XXX.XXX-XX e com 11 dígitos)</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">3. ENDEREÇO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">4. BAIRRO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">5. CEP: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">6. HORÁRIO DE FUNCIONAMENTO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Especificar os dias da semana e os horários.<br>Ex: De segunda a sexta, das 07h as 18h</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">7. TELEFONE: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Telefone do estabelecimento<br>O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">8. E-MAIL: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">E-mail do estabelecimento<br>Este que receberá a resposta automática com as informações necessárias.<br>Caso queira inserir mais de um e-mail, basta separá-los por ponto e virgula sem espaçamento ( ; ). Ex: ciclanodetal@email.com.br;fulanodetal@email.com</p>
+<p class="hint">[Resposta em linha única]</p>
+<h3>TIPOS DE PROCEDIMENTOS REALIZADOS NESTA UNIDADE:</h3>
+<p class="q">9. Cirurgias oculares (catarata, exérese de pterígio, correção de estrabismo, refração, etc) <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">10. Blefaroplastias, otoplastias <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">11. Transplante capilar <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>Realiza procedimentos médico-cirúrgicos de pequeno porte, sob anestesia local:</h3>
+<p class="q">12. Local <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>REALIZA PROCEDIMENTOS MÉDICO-CIRÚRGICOS DE PEQUENO PORTE, SOB ANESTESIA LOCO REGIONAL:</h3>
+<p class="q">13. Loco-regional <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">14. Bloqueio subaracnóideo e peridural <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">REALIZA PROCEDIMENTOS MÉDICO-CIRÚRGICOS DE PEQUENO PORTE, SOB BLOQUEIO SUBARACNÓIDEO E PERIDURAL:</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>REALIZA PROCEDIMENTOS MÉDICO-CIRÚRGICOS DE PEQUENO PORTE, SEM SEDAÇÃO:</h3>
+<p class="q">15. Sem sedação <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>REALIZA PROCEDIMENTOS MÉDICO-CIRÚRGICOS DE PEQUENO PORTE, COM SEDAÇÃO:</h3>
+<p class="q">16. Com sedação <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">17. Geral com agentes anestésicos de eliminação rápida <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">REALIZA PROCEDIMENTOS MÉDICO-CIRÚRGICOS DE PEQUENO PORTE, SOB ANESTESIA GERAL, COM AGENTES ANESTÉSICOS DE ELIMINAÇÃO RÁPIDA:</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">18. O paciente permanece internado no estabelecimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>ESTRUTURA FÍSICA</h3>
+<p class="q">19. Existe o compartilhamento da sala de atendimento por mais de um profissional? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">20. O estabelecimento aluga o centro cirúrgico para profissionais terceirizados? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">21. Pia exclusiva para lavagem de mãos com sabão e papel toalha na área destinada ao atendimento de pacientes? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>RESPONSÁVEL TÉCNICO / RECURSOS HUMANOS</h3>
+<p class="q">22. Possui um médico como responsável técnico do estabelecimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">23. Nome completo e sem abreviações: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">24. Número do registro de conselho de classe (CRM): <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">25. Todos os profissionais estão inscritos nos respectivos Conselhos, conforme determina a legislação em vigor. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>EQUIPAMENTOS / MATERIAIS / PROCEDIMENTOS</h3>
+<p class="q">26. Conta com produtos, medicamentos, materiais e equipamentos condizentes com os procedimentos cirúrgicos realizados? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">27. Manutenção corretiva e preventiva dos equipamentos dentro da validade? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">28. Produtos, equipamentos e materiais possuem notificação/registro ANVISA? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">29. Utiliza medicamentos e substâncias sujeitos a controle especial conforme estabelecido na Portaria nº 344, de 12 de maio de 1998? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">30. Possui área com estoque de medicamentos provido de registro de controle de monitoramento de temperatura e umidade do ambiente? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">31. Utiliza medicamento/produto termolábil? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">32. Caso utilizar medicamentos/produtos termolábeis, possui refrigerador exclusivo para armazenamento provido de termômetro e registro de controle de monitoramento de temperatura? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>ESTERILIZAÇÃO</h3>
+<p class="q">33. Utiliza instrumental que necessita de esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">34. Possui lavatório exclusivo para a lavagem de instrumental? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">35. Realiza a esterilização dos instrumentais no próprio estabelecimento ou empresa especializada terceirizada? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">36. A esterilização é realizada? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>No próprio estabelecimento</li>
+<li>Por empresa terceirizada</li>
+</ul>
+<p class="q">37. Informe a RAZÃO SOCIAL do estabelecimento responsável pela esterilização <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">38. Informe o CNPJ do estabelecimento responsável pela esterilização <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">39. Possui autoclave? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">40. Realiza teste biológico para controle da eficácia da esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">41. Se a esterilização for realizada no local há espaço adequado, bancadas e equipamentos necessários para o procedimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">42. Existe profissional treinado para realização do procedimento de esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>RESÍDUOS GERADOS</h3>
+<p class="q">43. Certificado de Cadastramento com a empresa coletora de Resíduos de Serviços de Saúde - SP REGULA <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">44. Os materiais perfuro cortantes, tais como agulhas, lâminas de bisturi, são descartados em recipiente rígido? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">45. Possui abrigo externo de resíduos infectante e comum separados? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>DOCUMENTOS GERAIS / OUTROS</h3>
+<p class="q">46. Comprovante de controle de pragas urbanas, atualizado; <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">47. Comprovante de manutenção dos aparelhos de ar condicionado; <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">48. Conta com Manual de Rotinas e Procedimentos dos procedimentos realizados no serviço disponível para consulta de todos os profissionais? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">49. Possui serviço de LAVANDERIA terceirizado? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">50. LAVANDERIA - RAZÃO SOCIAL</p>
+<p class="hint">Tipo: Campo de texto | Opcional</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">51. LAVANDERIA - CNPJ</p>
+<p class="hint">Tipo: Campo de texto | Opcional</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">52. LAVANDERIA - CEVS, SE APLICÁVEL</p>
+<p class="hint">Tipo: Campo de texto | Opcional</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">53. Legislações e guias a serem consultados <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Resolução SS- 002, de 06 de janeiro de 2006 - Aprova Norma Técnica que disciplina as exigências para o funcionamento dos estabelecimentos que realizam procedimentos médico-cirúrgicos de curta permanência institucional no âmbito do Estado de São Paulo<br>RDC Nº 15, DE 15 DE MARÇO DE 2012 - Dispõe sobre requisitos de boas práticas para o processamento de produtos para saúde e dá outras providências<br>PORTARIA CVS-15, de 19-11-99 - Aprova NORMA TÉCNICA que trata da execução de procedimentos em estética, em emagrecimento e inerentes à denominada prática ortomolecular nos estabelecimentos de saúde cujas condições de funcionamento especifica e dá providências correlatas.<br>PORTARIA Nº 344, DE 12 DE MAIO DE 1998 - Aprova o Regulamento Técnico sobre substâncias e medicamentos sujeitos a controle especial. - PORTARIA Nº 06, DE 29 DE JANEIRO DE 1999 - Aprova a Instrução Normativa da Portaria SVS/MS n.º 344 de 12 de maio de 1998 que instituiu o Regulamento Técnico das substâncias e medicamentos sujeitos a controle especial.<br>RDC Nº 63, DE 25 DE NOVEMBRO DE 2011 - Dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde - RDC Nº 222, DE 28 DE MARÇO DE 2018 - Regulamenta as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e dá outras providências.<br>RDC Nº 36, DE 25 DE JULHO DE 2013 - Institui ações para a segurança do paciente em serviços de saúde e dá outras providências.<br>RDC Nº 50, DE 21 DE FEVEREIRO DE 2002 - Dispõe sobre o Regulamento Técnico para planejamento, programação, elaboração e avaliação de projetos físicos de estabelecimentos assistenciais de saúde.<br>Decreto Estadual nº 12.342/78 - Dispõe sobre normas de promoção, preservação e recuperação da saúde no campo de competência da Secretaria de Estado da Saúde. Art.263 e 264.</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<p class="q">54. Declaração de Responsabilidade <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Declaro ser responsável pela veracidade e autenticidade de todas as informações apresentadas.<br>Declaro estar ciente da obrigação de apresentar, a qualquer tempo, a documentação exigida para a exploração da atividade e de prestar todas as informações referentes ao funcionamento do estabelecimento, de forma a assegurar os controles necessários a serem exercidos pelo órgão sanitário municipal.<br>Declaro comprometer-me com a preservação das melhores condições higiênico-sanitárias de instalações, equipamentos, procedimentos e fluxos, notadamente as boas práticas para o exercício da atividade e a adequada conservação dos produtos utilizados.<br>Declaro ainda estar ciente de que a prestação de declaração falsa configura crime previsto no Código Penal Brasileiro, passível de sanções penais, sem prejuízo das sanções administrativas e civis cabíveis.</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h2>Mensagem de agradecimento</h2>
+<p>Sua resposta foi enviada.<br>Caso não tenha recebido um e-mail automático, o mesmo foi inserido de maneira errada neste formulário.</p>
+</body></html>
