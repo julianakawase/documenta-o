@@ -1,0 +1,37 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>CREMESP Requerimento PJ</title>
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:10pt}h1{color:#0D47A1}h2{color:#1565C0;margin-top:14pt}h3{color:#1E88E5}.note{font-style:italic;color:#555;font-size:8pt}</style></head><body>
+<h1>CREMESP — Requerimento para Pessoa Jurídica</h1>
+<p>Fonte: https://www.cremesp.org.br/?siteAcao=ServicosEmpresasRequerimentoCadastro&id=1<br><span class="note">* obrigatório</span></p>
+<h2>1. Dados do requerimento</h2>
+<p>Nº Registro Estabelecimento ________ &nbsp; CNPJ/MF * ________</p>
+<p>Objeto: ☐ REGISTRO &nbsp; Estabelecimento *: ☐ ÚNICO ☐ MATRIZ ☐ FILIAL SEM CAPITAL ☐ FILIAL COM CAPITAL ☐ FILIAL MATRIZ OUTRA UF</p>
+<p>Razão Social/Nome Fantasia * ________ &nbsp; Razão Social * ________ &nbsp; Nome Publicidade Médica * ________</p>
+<p>Registro Matriz ________ &nbsp; Local retirada documentos * ________</p>
+<h2>2. Endereço</h2>
+<p>CEP * ____ Logradouro * ________ Nº * ____ Compl. ____ Bairro * ____ Cidade * ____</p>
+<p>Tel 1 * ________ Tel 2 ________ E-mail * ________ Divulgar no site *: ☐ Sim ☐ Não</p>
+<h2>3. Consultório</h2><p>Possui *: ☐ Sim ☐ Não — se Sim: CEP/Endereço/Nº/Bairro/Cidade</p>
+<h2>5. Instalações / Natureza / Tipo</h2>
+<p>Instalações *: ☐ Próprias ☐ Alugadas ☐ Cedidas ☐ Administrativa</p>
+<p>Natureza Jurídica * ________ &nbsp; Tipo de Estabelecimento * ________</p>
+<h2>6. CNES / ANS / Alvarás</h2>
+<p>CNES ________ ☐ Isento ☐ Não Informado &nbsp; ANS ________ ☐ Não Informado</p>
+<p>Alvará Funcionamento: Nº * ____ Validade * ____ ☐ Indeterminada</p>
+<p>Alvará Sanitário *: Nº * ____ Validade * ____ Tipo *: ☐ Municipal ☐ Estadual ☐ Indeterminada</p>
+<h2>7. Capital social</h2><p>Matriz * R$ ________ &nbsp; Filial R$ ________</p>
+<h2>8. Especialidades *</h2><p class="note">Marque conforme lista do site (Acupuntura, Cardiologia, Cirurgia Geral, Clínica Médica, etc.).</p>
+<h2>9. Diretor Técnico *</h2><p>CRM/SP * ____ CPF * ____ Nome * ________ E-mail * ________</p>
+<h2>10. Diretor Clínico (se diferente)</h2><p>CRM/SP ____ CPF ____ Nome ________ E-mail ________</p>
+<h2>11. RH / Área médica *</h2>
+<p>Médicos ____ Salas * ____ Consultórios ____ Raio X ____ Cirurgias ____ Outros ____</p>
+<p>Leitos *: Clínico __ Ped __ Onco __ Cir __ Psiq __ UTI __ Obst __ Isol __ Berços __ Outros __</p>
+<h2>12. Serviços disponíveis *</h2><p class="note">Lista do site (Ambulatório, Centro Cirúrgico, Internação, UTI, etc.).</p>
+<h2>13. Outros profissionais *</h2><p>Enfermagem / Farmácia / Fisioterapia / Psicologia / etc. — informar quantidades</p>
+<h2>14. Sócios</h2><p>Possui? ☐ Sim ☐ Não — Nome / CPF / Qualificação / CRM (se médico)</p>
+<h2>15. Contabilidade</h2><p>Responsável escrita fiscal ________ CRC ____ Endereço ________ Tel ____ E-mail ________</p>
+<h2>16. Termo de Ciência do Diretor Técnico</h2>
+<p>Assumo a inteira responsabilidade pelos dados e documentos deste requerimento perante o CREMESP (Res. CFM 1980/2011, 2.147/2016 e 2.336/2023)...</p>
+<p>☐ Li e concordo</p>
+<p>Local/Data _____________ &nbsp; Assinatura Diretor Técnico ________________ CRM/SP ______</p>
+</body></html>
