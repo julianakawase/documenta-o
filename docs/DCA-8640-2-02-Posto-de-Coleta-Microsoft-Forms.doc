@@ -1,0 +1,299 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>DCA  8640-2/02 - Posto de Coleta</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View></w:WordDocument></xml><![endif]-->
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222}h1{color:#1F3A5F;font-size:18pt}h2{color:#2E4A6E;font-size:14pt;margin-top:18pt}h3{color:#3A5A7A;font-size:12pt;margin-top:14pt}.meta{color:#666;font-size:9pt}.req{color:#c00}.q{margin-top:10pt;font-weight:bold}.hint{color:#888;font-size:9pt}.sub{font-style:italic;font-size:10pt}</style></head><body>
+<h1>DCA  8640-2/02 - Posto de Coleta</h1>
+<p class="meta">Fonte: Microsoft Forms | Status: Active | Idioma: pt-BR | Criado: 2024-10-18T14:53:56.86Z | Modificado: 2025-11-10T14:52:39.367Z</p>
+<p class="meta">URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=nN-Y8wz9KUigA8dwocSgY4rUn0LkQVFMtVuLOpOGT5dUOExLTjFWMTVJMEY4NVo5RTgxV0VSODZBMi4u&amp;route=shorturl</p>
+<h2>Descrição</h2>
+<p>Compreende: Posto de Coleta Autônomo e Descentralizado (139 – Posto de coleta para análises clínicas)<br>Classificado como Serviço Tipo II de acordo com a RDC Nº 978, DE 6 DE JUNHO DE 2025<br><br>Preencher essa planilha de forma eletrônica. Depois de devidamente preenchida, uma resposta automática com os resultados irá chegar em sua caixa de entrada(e-mail), assiná-la e encaminhá-la juntamente com a solicitação de Licenciamento</p>
+<h2>Perguntas (47)</h2>
+<p class="q">1. RAZÃO SOCIAL: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">2. CNPJ: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">(O campo deve ser preenchido apenas com números, no formato XX.XXX.XXX/XXXX-XX e com 14 dígitos)</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">3. ENDEREÇO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em múltiplas linhas]</p>
+<p class="q">4. BAIRRO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em múltiplas linhas]</p>
+<p class="q">5. CEP: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">6. HORÁRIO DE FUNCIONAMENTO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Ex: De segunda a sexta, das 07h as 18h</p>
+<p class="hint">[Resposta em múltiplas linhas]</p>
+<p class="q">7. TELEFONE: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Telefone do estabelecimento<br>O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">8. E-MAIL: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">E-mail do estabelecimento<br>Este que receberá a resposta automática com as informações necessárias.<br>Caso queira inserir mais de um e-mail, basta separá-los por ponto e virgula sem espaçamento ( ; ). Ex: ciclanodetal@email.com.br;fulanodetal@email.com</p>
+<p class="hint">[Resposta em múltiplas linhas]</p>
+<p class="q">9. O posto de coleta está localizado na mesma estrutura de uma área técnica laboratorial?
+(área onde é realizada a análise do material biológico). <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Enquadramento da Atividade</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">10. A licença deverá ser solicitada com CNAE 8640-2/02 - Tipo de Serviço 088 <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Enquadramento da Atividade</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<p class="q">11. O posto de coleta irá funcionar ou funciona na mesma estrutura de um centro de diagnostico onde são realizados, por exemplo: Exames de ultrassom, Eletrocardiograma, Exames de RX, Tomografia e/ou outros? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Enquadramento da Atividade</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">12. A solicitação de licença sanitária deverá ser realizada com o CNAE 8640-2/99 - TIPO DE SERVIÇO 139 <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<p class="q">13. Realiza somente atividades de coleta de material biológico no estabelecimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Enquadramento da Atividade</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">14. Realiza coletas domiciliares de material biológico? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Atividades realizadas</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">15. Realiza os procedimentos de triagem das amostras biológicas no próprio local, como a centrifugação, aliquotagem etc? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Atividades realizadas</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">16. O estabelecimento conta com responsável técnico devidamente habilitado pelo conselho de classe pertinente? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Responsável Técnico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">17. Conta com pessoal devidamente habilitado e qualificado, em número suficiente para execução das atividades? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Responsável Técnico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">18. Realiza capacitações e treinamentos iniciais e periódicos, com frequência mínima anual que contemple as atividades dos profissionais, descrito em cronograma definido? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Programa de Educação Permanente</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">19. O posto de coleta disponibiliza a todos os funcionários instruções escritas de biossegurança, contemplando no mínimo os seguintes itens:
+a) normas e condutas de segurança biológica, química, física, ocupacional e ambiental;
+b) instruções de uso para os equipamentos de proteção individual (EPI) e de proteção coletiva (EPC);
+c) procedimentos em caso de acidentes;
+d) manuseio e transporte de material e amostra biológica? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Programa de Educação Permanente</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">20. Conta com área(s) definida(s) e identificada(s) para o recebimento, a triagem e a guarda temporária de material biológico coletado? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Estrutura Física Geral - Serviço Tipo II</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">21. Conta com instrumento de refrigeração exclusivo para a guarda e conservação de material biológico, com termômetro de momento com máxima e mínima? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">22. Realiza registro de controle de temperatura e umidade dos ambientes onde são armazenados os insumos e reagentes, respeitando as recomendações de cada fabricante dos produtos (tubos de coleta/insumos) armazenados no local? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Área para coleta de material biológico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">23. A infraestrutura do estabelecimento atende às exigências mínimas obrigatórias preconizadas pela Resolução ANVISA - RDC 978/25 para os estabelecimentos classificados como Serviço Tipo II (Posto de Coleta)? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">24. Possui recipiente adequado para descarte de materiais perfurocortantes nas áreas e salas utilizadas para a coleta de material biológico? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Área para coleta de material biológico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">25. São utilizados somente materiais e insumos de uso único, descartáveis para os procedimentos de coleta de material biológico? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Área para coleta de material biológico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">26. Há solicitação de documento de identificação do paciente no ato do cadastro contendo: nome, idade, nome da mãe, nome do médico solicitante, endereço/telefone, etc...? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Cadastro, identificação e rastreabilidade das amostras</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">27. O material biológico é imediatamente identificado no ato da coleta? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Cadastro, identificação e rastreabilidade das amostras</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">28. A identificação do material biológico permite a rastreabilidade e correlação entre o material biológico e o paciente, de forma a garantir a segurança? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Cadastro, identificação e rastreabilidade das amostras</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">29. As centrífugas e demais equipamentos utilizados na coleta, preparo e conservação das amostras biológicos coletadas possuem registros atualizados de manutenção/calibração, conforme a orientação do fabricante? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Área de classificação e distribuição das amostras – triagem</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">30. O estabelecimento está equipado com dispositivo lava-olhos? (Equipamento de proteção coletiva destinado a eliminar ou minimizar danos causados por acidentes na área dos olhos ou face). <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Área de classificação e distribuição das amostras – triagem</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">31. Os produtos e equipamentos utilizados nos procedimentos de coleta, preparo do material biológico coletado possuem regularização junto a ANVISA? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento de tecnologias (produtos e equipamentos para saúde)</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">32. Mantém atualizados os registros diários de controle de temperatura de equipamentos (Ex: refrigerador para acondicionamento das amostras biológicas, dentre outros) e de ambientes, se aplicável? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento de tecnologias (produtos e equipamentos para saúde)</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">33. Acondiciona de forma adequada e de acordo com as especificações e instruções do fabricante, os materiais que necessitam de controle de temperatura? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento de tecnologias (produtos e equipamentos para saúde)</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">34. Possui veículos próprios para o transporte de material biológico? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento dos processos operacionais - Transporte do material biológico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">35. Os veículos estão devidamente adequados à legislação sanitária vigente para o transporte das amostras biológicas? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento dos processos operacionais - Transporte do material biológico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">36. Para transporte do material biológico terceirizado, há contrato formal com empresa com licença sanitária ativa para transporte de material biológico? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento dos processos operacionais - Transporte do material biológico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">37. Informe a RAZÃO SOCIAL da empresa terceirizada para transporte de material biológico: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">38. Informe o CNPJ da empresa terceirizada para transporte de material biológico: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">39. As embalagens e caixas para o transporte de material biológico estão em conformidade com a legislação sanitária vigente?
+As caixas para o transporte de amostras de pacientes devem ser isotérmicas, higienizáveis, impermeáveis, garantindo a estabilidade da amostra desde a coleta até a realização do exame, contendo identificação com a simbologia de risco biológico, com os dizeres “Espécimes para Diagnóstico” e com o nome do laboratório responsável pelo envio. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento dos processos operacionais - Transporte do material biológico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">40. O transporte garante a qualidade e a integridade da amostra no que se refere à preservação da embalagem e o controle de temperatura durante todo o período em trânsito. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento dos processos operacionais - Transporte do material biológico</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">41. Possui abrigo de resíduos infectante e comum separados com as seguintes características: com dimensão mínima para acondicionar os resíduos até que seja realizada a coleta por empresa coletora; ser construído com piso, paredes e teto de material resistente, lavável e de fácil higienização, com aberturas para ventilação e com tela de proteção contra acesso de vetores; identificado? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Gerenciamento de Resíduos</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">42. Certificado de Cadastramento com a empresa coletora de Resíduos de Serviços de Saúde - SP REGULA; <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Documentos Gerais</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">43. Há contratualização das atividades com estabelecimento licenciado como serviço &quot;tipo III&quot; para a realização das análises? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Documentos Gerais</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">44. Informe a RAZÃO SOCIAL do laboratório de analises clinicas (licenciado como serviço &quot;tipo III&quot; para a realização das análises) <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">45. Informe o CNPJ do laboratório de analises clinicas (licenciado como serviço &quot;tipo III&quot; para a realização das análises) <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">46. Legislações e guias a serem consultados <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Lei nº 13.725, de 09 de janeiro de 2004 - Código Sanitário Municipal;<br>RDC Nº 978, DE 6 DE JUNHO DE 2025 - Dispõe sobre o funcionamento de Serviços que executam as atividades relacionadas aos Exames de Análises Clínicas (EAC);<br>RDC Nº 509, DE 27 DE MAIO DE 2021- Dispõe sobre o gerenciamento de tecnologias em saúde em estabelecimentos de saúde;<br>RDC Nº 504, de 27 de maio de 2021 - Dispõe sobre regulamento sanitário para o transporte de material biológico humano;<br>RDC Nº 222, DE 28 DE MARÇO DE 2018 - Regulamenta as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e dá outras providências;<br>RDC nº 50, de 21 de fevereiro de 2002 - Dispõe sobre o Regulamento Técnico para planejamento, programação, elaboração e avaliação de projetos físicos de estabelecimentos assistenciais de saúde;<br>RDC nº 15, de 15 de março de 2012 - Dispõe sobre requisitos de boas práticas para o processamento de produtos para saúde e dá outras providências.PORTARIA CVS-13, de 04-11-2005 - Aprova norma técnica que trata das condições de funcionamento dos Laboratórios de Análises e Pesquisas Clínicas, Patologia Clínica e Congêneres, dos Postos de Coleta Descentralizados aos mesmos vinculados, regulamenta os procedimentos de coleta de material humano.  realizados nos domicílios dos cidadãos, disciplina o transporte de material humano e dá outras providências. Retificação em 28/06/2005.</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h3>Declaro ser responsável pela veracidade e autenticidade de todas as informações apresentadas.</h3>
+<p class="sub">Declaro estar ciente da obrigação de apresentar, a qualquer tempo, a documentação exigida para a exploração da atividade e de prestar todas as informações referentes ao funcionamento do estabelecimento, de forma a assegurar os controles necessários a serem exercidos pelo órgão sanitário municipal.<br>Declaro comprometer-me com a preservação das melhores condições higiênico-sanitárias de instalações, equipamentos, procedimentos e fluxos, notadamente as boas práticas para o exercício da atividade e a adequada conservação dos produtos utilizados.<br>Declaro ainda estar ciente de que a prestação de declaração falsa configura crime previsto no Código Penal Brasileiro, passível de sanções penais, sem prejuízo das sanções administrativas e civis cabíveis.</p>
+<p class="q">47. Declaração de Responsabilidade <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h2>Mensagem de agradecimento</h2>
+<p>Sua resposta foi enviada.<br>Caso não tenha recebido um e-mail automático, o mesmo foi inserido de maneira errada neste formulário.</p>
+</body></html>

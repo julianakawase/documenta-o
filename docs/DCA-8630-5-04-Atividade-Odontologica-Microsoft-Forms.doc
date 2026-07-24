@@ -1,0 +1,330 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>DCA 8630-5/04 - Atividade odontológica</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View></w:WordDocument></xml><![endif]-->
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222}h1{color:#1F3A5F;font-size:18pt}h2{color:#2E4A6E;font-size:14pt;margin-top:18pt}h3{color:#3A5A7A;font-size:12pt;margin-top:14pt}.meta{color:#666;font-size:9pt}.req{color:#c00}.q{margin-top:10pt;font-weight:bold}.hint{color:#888;font-size:9pt}.sub{font-style:italic;font-size:10pt}</style></head><body>
+<h1>DCA 8630-5/04 - Atividade odontológica</h1>
+<p class="meta">Fonte: Microsoft Forms | Status: Active | Idioma: pt-BR | Criado: 2024-10-17T13:03:00.367Z | Modificado: 2026-02-10T12:11:39.133Z</p>
+<p class="meta">URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=nN-Y8wz9KUigA8dwocSgY4rUn0LkQVFMtVuLOpOGT5dUMjc4WUYwNVdHNkJSVFNGSkNFVE1VRTg0Ny4u&amp;route=shorturl</p>
+<h2>Descrição</h2>
+<p>8630-5/04 - ATIVIDADE ODONTOLÓGICA<br><br>Compreende: Atividades odontológicas exercidas com emprego ou não de equipamento de raios X Intraoral e extraoral, em áreas autônomas, e/ ou no interior de escola ou outro espaço social, inclusive as atividades extra estabelecimentos, com uso de unidades móveis, transportáveis, portáteis.<br><br>Preencher essa planilha de forma eletrônica. Depois de devidamente preenchida, uma resposta automática com os resultados irá chegar em sua caixa de entrada(e-mail), assiná-la e encaminhá-la juntamente com a solicitação de Licenciamento</p>
+<h2>Perguntas (55)</h2>
+<p class="q">1. RAZÃO SOCIAL ou NOME: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">2. CNPJ ou CPF: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">(CNPJ - O campo deve ser preenchido apenas com números, no formato XX.XXX.XXX/XXXX-XX e com 14 dígitos)<br>(CPF - O campo deve ser preenchido apenas com números, no formato XXX.XXX.XXX-XX e com 11 dígitos)</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">3. ENDEREÇO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">4. BAIRRO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">5. CEP: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">6. HORARIO DE FUNCIONAMENTO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Ex: De segunda a sexta, das 07h as 18h</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">7. Telefone: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Telefone do estabelecimento<br>O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">8. E-mail: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">E-mail do estabelecimento<br>Este que receberá a resposta automática com as informações necessárias.<br>Caso queira inserir mais de um e-mail, basta separá-los por ponto e virgula sem espaçamento ( ; ). Ex: ciclanodetal@email.com.br;fulanodetal@email.com</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">9. Cirurgia Oral Menor <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">10. Endodontia <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">11. Ortodontia/Disfunção ATM <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">12. Harmonização Orofacial <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">13. Implantodontia <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">14. Prótese/Reabilitação Oral <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">15. Periodontia <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">16. Estética Corporal <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">17. Cirurgia Buco Maxilo Facial <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">A especialidade é realizada no estabelecimento ?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">18. Anestesia Local <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Realiza os procedimentos sob Anestesia Local?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">19. Sedação Consciente <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Realiza os procedimentos sob Sedação Consciente?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">20. Óxido Nitroso <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Utiliza Óxido Nitroso como sedação?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">21. Anestesia Geral <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Realiza os procedimentos sob Anestesia Geral?</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>Informe o número de salas de atendimento:</h3>
+<p class="q">22. Número de salas de atendimento: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<h3>ESTRUTURA FÍSICA</h3>
+<p class="q">23. O compressor está instalado fora da área de atendimento ou possui proteção acústica? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">24. Dispõe de pia exclusiva para lavagem de mãos, na(s) sala(s) de atendimento odontológico, com torneira acionada sem contato manual? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">25. Possui equipamento de radiologia odontológica Intraoral/Periapical? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">26. Possui equipamento de radiologia odontológica Extraoral/Panorâmico? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>EQUIPAMENTO DE RAIO X</h3>
+<p class="q">27. No caso de possuir equipamento(s) de raios X Panorâmico(s), realiza o controle de dosimetria individual do(s) profissional(is) que operam esse(s) equipamentos(s)? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">28. O(s) equipamento(s) de raios X estão instalado(s) em sala(s) exclusiva(s) para radiologia? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">29. Caso o(s) equipamento(s) de raios X esteja(m) instalado(s) na(s) sala(s) de atendimento odontológico, há somente um equipamento por sala de atendimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">30. Possui aventais e protetores de tireoide (vestimentas plumbiferas) para a proteção do paciente, em bom estado de conservação, higiene e acondicionadas de forma correta? Para cada equipamento de raios X deve existir um conjunto de avental e protetor de tireoide plumbifero. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">31. Possui Levantamento Radiométrico da(s) sala(s) de atendimento odontológico, onde está(ão) instalado(s) o(s) equipamento(s) de raios X, no prazo de validade? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">32. Possui controle de qualidade do(s) equipamento(s) de raios X, no prazo de validade? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">33. Raio X - Informe a RAZÃO SOCIAL do estabelecimento responsável pela realização dos testes <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">34. Raio X - Informe o CNPJ do estabelecimento responsável pela realização dos testes <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">35. Raio X - Informe o CEVS do estabelecimento responsável pela realização dos testes <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<h3>SALA DE ATENDIMENTO ODONTOLÓGICO / PROCEDIMENTOS</h3>
+<p class="q">36. A equipe de trabalho utiliza equipamentos de proteção individual (EPI) protetores oculares, máscaras, luvas, gorros e avental   durante os procedimentos clínico-cirúrgicos e esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">37. Os materiais, medicamentos e insumos utilizados são regularizados junto a ANVISA e dentro dos prazos de validade? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>ESTERILIZAÇÃO</h3>
+<p class="q">38. A esterilização dos artigos e instrumentais é realizada no próprio estabelecimento ou fora, com empresa contratada? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Clinica / Consultório</li>
+<li>Empresa Contratada</li>
+</ul>
+<p class="q">39. Em caso positivo na questão anterior, possui sala exclusiva para realização do procedimento de esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">40. Utiliza autoclave. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">41. Utiliza estufa. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">42. O profissional responsável pelo procedimento de esterilização utiliza equipamentos de proteção individual (luvas, óculos, avental impermeável). <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">43. Realiza pré-lavagem dos artigos e instrumentais, com produto adequado, antes da esterilização. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">44. Acondiciona instrumental individualmente e/ou em jogos por paciente e em embalagem adequada (papel grau cirúrgico) para esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">45. Os instrumentais esterilizados possuem identificação com data de processamento e responsável pela realização do mesmo? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">46. Realiza o controle com indicador biológico do processo de esterilização para autoclave com registro dos resultados? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">47. Possui contrato com empresa para esterilização, caso o instrumental seja totalmente ou parcialmente esterilizado fora da unidade? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">48. Informe a RAZÃO SOCIAL da empresa responsavel pela esterilização: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">49. Informe o CNPJ da empresa responsável pela esterilização: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<h3>DOCUMENTOS GERAIS / OUTROS</h3>
+<p class="q">50. Manual de rotinas e procedimentos da lavagem e esterilização dos instrumentais. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>RESÍDUOS GERADOS</h3>
+<p class="q">51. Possui cadastro com a SP REGULA para coleta de resíduo contaminado. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">52. Os materiais perfurocortantes, tais como agulhas, lâminas de bisturi, brocas, pontas diamantadas, limas endodônticas, são descartados em recipiente rígido e identificado pela simbologia de substância infectante? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>DOCUMENTOS GERAIS / OUTROS</h3>
+<p class="q">53. Comprovante de manutenção dos aparelhos de ar condicionado (se houver). <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">54. Legislações e guias a serem consultados <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Resolução SS-15/99 - Aprova Norma Técnica que estabelece condições para instalação e funcionamento de estabelecimentos de assistência odontológica, e dá providências correlatas;Resolução Anvisa 15/12 - Dispõe sobre requisitos de boas práticas para o processamento de produtos para saúde e dá outras providências;Resolução da Diretoria Colegiada RDC nº 222/18 - Regulamenta as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e dá outras providências.Resolução RDC 63/2011 - Dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde;<br>Resolução RDC nº 611/2022 - Estabelece os requisitos sanitários para a organização e o funcionamento de serviços de radiologia diagnóstica ou intervencionista e regulamenta o controle das exposições médicas, ocupacionais e do público decorrentes do uso de tecnologias radiológicas diagnósticas ou intervencionistas.<br>Decreto Estadual nº 12.342/78 - Dispõe sobre normas de promoção, preservação e recuperação da saúde no campo de competência da Secretaria de Estado da Saúde. Art.255 e 256;<br>Resolução SS 374/95 - Trata do Sistema Estadual de Vigilância Sanitária e das diretrizes para a execução das atividades de vigilância sanitária no Estado de São Paulo;</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h3>Declaro ser responsável pela veracidade e autenticidade de todas as informações apresentadas.</h3>
+<p class="sub">Declaro estar ciente da obrigação de apresentar, a qualquer tempo, a documentação exigida para a exploração da atividade e de prestar todas as informações referentes ao funcionamento do estabelecimento, de forma a assegurar os controles necessários a serem exercidos pelo órgão sanitário municipal.<br>Declaro comprometer-me com a preservação das melhores condições higiênico-sanitárias de instalações, equipamentos, procedimentos e fluxos, notadamente as boas práticas para o exercício da atividade e a adequada conservação dos produtos utilizados.<br>Declaro ainda estar ciente de que a prestação de declaração falsa configura crime previsto no Código Penal Brasileiro, passível de sanções penais, sem prejuízo das sanções administrativas e civis cabíveis.</p>
+<p class="q">55. Declaração de Responsabilidade <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h2>Mensagem de agradecimento</h2>
+<p>Sua resposta foi enviada.<br>Caso não tenha recebido um e-mail automático, o mesmo foi inserido de maneira errada neste formulário.</p>
+</body></html>

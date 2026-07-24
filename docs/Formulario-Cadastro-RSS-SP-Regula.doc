@@ -1,0 +1,74 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>Formulário Unificado RSS SP Regula</title>
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:10pt}h1{color:#B71C1C}h2{color:#7F1D1D;margin-top:14pt}h3{color:#5D1A1A}.note{font-style:italic;color:#555;font-size:8pt}.res{margin:4px 0 8px 6px}table{border-collapse:collapse;width:100%}th,td{border:1px solid #888;padding:4px;font-size:8pt}</style></head><body>
+<h1>Formulário Unificado — Cadastro RSS (SP Regula)</h1>
+<p><b>Geradores de Resíduos dos Serviços de Saúde — RSSS</b><br>Portal: https://cadastros-spregula.coletas.online/auth/Opcoes</p>
+<p class="note">Unifica Cadastro RSS + Gestão de Resíduos (caracterização), sem duplicidade. * obrigatório.</p>
+<p>Etapas: Identificação → Caracterização → Armazenagem → Pontos de Coleta → Documentação</p>
+<h2>0. Tipo de solicitação</h2>
+<p>☐ Novo Cadastro &nbsp; ☐ Alteração &nbsp; ☐ Renovação &nbsp; ☐ Cancelamento &nbsp; | &nbsp; ☐ PJ &nbsp; ☐ PF</p>
+<h2>1. Identificação</h2>
+<p><b>CPF/CNPJ *</b> ________ <b>Razão social *</b> ________ <b>Nome fantasia *</b> ________</p>
+<p><b>CCM *</b> ________ <b>TRSS</b> ________ <b>E-mail *</b> ________ <b>Tel</b> ________ <b>Cel</b> ________</p>
+<p><b>Colaboradores</b> ____ <b>Água</b> ____ <b>Energia</b> ____ <b>CNAE</b> ________</p>
+<h2>2. Endereço / ponto de coleta principal</h2>
+<p><b>CEP *</b> ____ <b>Logradouro *</b> ________ <b>Nº *</b> ____ <b>Compl.</b> ____ <b>Bairro *</b> ____ <b>Cidade *</b> São Paulo <b>UF *</b> SP</p>
+<h2>3. Dados específicos RSS</h2>
+<p><b>Tipo estabelecimento *</b> ________ ☐ Hospital (leitos ativos * ____ / inativos * ____)</p>
+<p><b>Classificação *</b> ________ <b>Tipo empresa *</b> ________ <b>Faixa valores *</b> ________</p>
+<h2>4. Responsável Legal</h2><p><b>Nome *</b> ________ <b>CPF</b> ________ <b>Função</b> ________</p>
+<h2>5. Responsável Técnico</h2>
+<p><b>Nome *</b> ________ &nbsp; ☐CRM ☐CRO ☐CRMV ☐COREN ☐CRF ☐CRBio ☐RG+curso ☐Outro &nbsp; <b>Nº *</b> ________</p>
+<h2>6. Caracterização dos resíduos</h2>
+<p class="note">Marque o que é gerado e informe Kg/dia.</p>
+<h3>6.1 Grupo A</h3>
+<div class="res">☐ <b>A / A-1 / 1</b> Culturas e estoques de microrganismos; resíduos de fabricação de produtos biológicos, exceto os hemoderivados; descarte de vacinas de microrganismos vivos ou atenuados; meios de cultura e instrumentais utilizados para transferência, inoculação ou mistura de culturas; resíduos de laboratórios de manipulação genética.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-1 / 2</b> Resíduos resultantes da atenção à saúde de indivíduos ou animais, com suspeita ou certeza de contaminação biológica por agentes classe de risco 4, microrganismos com relevância epidemiológica e risco de disseminação ou causador de doença emergente / mecanismo de transmissão desconhecido.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-1 / 3</b> Bolsas transfusionais contendo sangue ou hemocomponentes rejeitadas por contaminação, má conservação ou validade vencida, e as oriundas de coleta incompleta.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-1 / 4</b> Sobras de amostras de laboratório contendo sangue ou líquidos corpóreos; recipientes e materiais da assistência à saúde contendo sangue ou líquidos corpóreos na forma livre.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-2</b> Carcaças, peças anatômicas, vísceras e outros resíduos de animais submetidos a experimentação com inoculação de microrganismos, suas forrações, e cadáveres de animais suspeitos de portarem microrganismos de relevância epidemiológica e risco de disseminação.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-3</b> Peças anatômicas (membros) do ser humano; produto de fecundação sem sinais vitais, com peso &lt; 500 g ou estatura &lt; 25 cm ou idade gestacional &lt; 20 semanas, sem valor científico/legal e sem requisição do paciente ou familiares.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-4 / 1</b> Kits de linhas arteriais, endovenosas e dialisadores, quando descartados.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-4 / 2</b> Filtros de ar e gases aspirados de área contaminada; membrana filtrante de equipamento médico-hospitalar e de pesquisa, entre outros similares.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-4 / 3</b> Sobras de amostras de laboratório e recipientes contendo fezes, urina e secreções de pacientes que não contenham nem sejam suspeitos de conter agentes Classe de Risco 4, relevância epidemiológica, doença emergente ou príons.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-4 / 4</b> Resíduos de tecido adiposo proveniente de lipoaspiração, lipoescultura ou outro procedimento de cirurgia plástica que gere este tipo de resíduo.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-4 / 5</b> Recipientes e materiais resultantes do processo de assistência à saúde que não contenham sangue ou líquidos corpóreos na forma livre.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-4 / 6</b> Peças anatômicas (órgãos e tecidos) e outros resíduos provenientes de procedimentos cirúrgicos ou de estudos anátomo-patológicos ou de confirmação diagnóstica.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-4 / 7</b> Carcaças, peças anatômicas, vísceras e outros resíduos de animais não submetidos a experimentação com inoculação de microrganismos, bem como suas forrações.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-4 / 8</b> Bolsas transfusionais vazias ou com volume residual pós-transfusão.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>A / A-5</b> Órgãos, tecidos, fluidos orgânicos, materiais perfurocortantes ou escarificantes e demais materiais resultantes da atenção à saúde de indivíduos ou animais, com suspeita ou certeza de contaminação com príons.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<h3>6.2 Grupo B</h3>
+<div class="res">☐ <b>B — a</b> Produtos hormonais e antimicrobianos; citostáticos; antineoplásicos; imunossupressores; digitálicos; imunomoduladores; antirretrovirais, quando descartados por serviços de saúde, farmácias, drogarias e distribuidores de medicamentos ou apreendidos; resíduos e insumos farmacêuticos dos medicamentos controlados pela Portaria MS 344/98 e atualizações.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>B — b</b> Resíduos de saneantes, desinfetantes, desinfestantes; resíduos contendo metais pesados; reagentes para laboratório, inclusive os recipientes contaminados por estes.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<div class="res">☐ <b>B — e</b> Demais produtos considerados perigosos, conforme classificação da NBR 10.004 da ABNT (tóxicos, corrosivos, inflamáveis e reativos).<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<h3>6.3 Grupo E</h3>
+<div class="res">☐ <b>E</b> Materiais perfurocortantes ou escarificantes: lâminas de barbear, agulhas, escalpes, ampolas de vidro, brocas, limas endodônticas, pontas diamantadas, lâminas de bisturi, lancetas; tubos capilares; micropipetas; lâminas e lamínulas; espátulas; utensílios de vidro quebrados no laboratório (pipetas, tubos de coleta sanguínea e placas de Petri) e similares.<br>&nbsp;&nbsp;Quantidade (Kg/dia): ________</div>
+<h2>7. Armazenagem dos resíduos</h2>
+<p>☐ Abrigo externo &nbsp; ☐ Abrigo interno &nbsp; ☐ Sala de resíduos &nbsp; ☐ Contêiner &nbsp; ☐ Outro</p>
+<table><tr><th>CEP</th><th>Logradouro</th><th>Nº</th><th>Bairro</th><th>Tipo abrigo</th><th>Obs.</th></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<h2>8. Pontos de coleta adicionais</h2>
+<table><tr><th>CEP</th><th>Logradouro</th><th>Nº</th><th>Bairro</th><th>Cidade/UF</th></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<h2>9. Documentação</h2><p><b>Novo Cadastro:</b></p><ul>
+<li>☐ IPTU (Imposto Predial e Territorial Urbano);</li>
+<li>☐ Ficha de Dados Cadastrais (FDC) do CCM contendo o código da TRSS;</li>
+<li>☐ Carteira do Conselho Regional do Responsável Técnico (CRM, CRMV, CRO, COREN, CRF, CRBio etc.);</li>
+<li>☐ CNPJ (PJ) ou CPF (PF) — cópia ou impressão da Internet.</li>
+</ul><p><b>Adicionais (Alteração):</b></p><ul>
+<li>☐ Taxa de Resíduos Sólidos de Saúde – TRSS;</li>
+<li>☐ Certificado de Cadastramento;</li>
+<li>☐ Cartão de Código de Barras (Verde) / cartão de identificação com QR Code.</li>
+</ul>
+<h2>10. Declaração</h2>
+<p>Declaro a veracidade das informações para cadastro RSS no SP Regula (Lei 13.478/2002).</p>
+<p>São Paulo, _____/_____/__________</p>
+<p>_______________________________<br>Responsável Legal</p>
+<p>_______________________________<br>Responsável Técnico</p>
+</body></html>
