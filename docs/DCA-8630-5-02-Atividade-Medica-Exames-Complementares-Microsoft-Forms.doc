@@ -1,0 +1,265 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>DCA 8630-5/02 - Atividade Médica - Exames Complementares</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View></w:WordDocument></xml><![endif]-->
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222}h1{color:#1F3A5F;font-size:18pt}h2{color:#2E4A6E;font-size:14pt;margin-top:18pt}h3{color:#3A5A7A;font-size:12pt;margin-top:14pt}.meta{color:#666;font-size:9pt}.req{color:#c00}.q{margin-top:10pt;font-weight:bold}.hint{color:#888;font-size:9pt}.sub{font-style:italic;font-size:10pt}</style></head><body>
+<h1>DCA 8630-5/02 - Atividade Médica - Exames Complementares</h1>
+<p class="meta">Fonte: Microsoft Forms | Status: Active | Idioma: pt-BR | Criado: 2024-10-23T14:06:56.263Z | Modificado: 2025-08-18T12:19:02.567Z</p>
+<p class="meta">URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=nN-Y8wz9KUigA8dwocSgY4rUn0LkQVFMtVuLOpOGT5dUM0NDWkoyTUlGNkoxWllWUTNWUEQzS1EwQi4u&amp;route=shorturl</p>
+<h2>Descrição</h2>
+<p>CNAE 8630-5/02 - ATIVIDADE MÉDICA AMBULATORIAL COM RECURSOS PARA REALIZAÇÃO DE EXAMES COMPLEMENTARES<br><br>Preencher essa planilha de forma eletrônica. Depois de devidamente preenchida, uma resposta automática com os resultados irá chegar em sua caixa de entrada(e-mail), assiná-la e encaminhá-la juntamente com a solicitação de Licenciamento</p>
+<h2>Perguntas (45)</h2>
+<p class="q">1. RAZÃO SOCIAL: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">2. CNPJ: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">(O campo deve ser preenchido apenas com números, no formato XX.XXX.XXX/XXXX-XX e com 14 dígitos)</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">3. ENDEREÇO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">4. BAIRRO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">5. CEP: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">6. Horário de Funcionamento: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Ex: De segunda a sexta, das 07h as 18h</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">7. Telefone: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Telefone do estabelecimento<br>O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">8. E-mail: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">E-mail do estabelecimento<br>Este que receberá a resposta automática com as informações necessárias.<br>Caso queira inserir mais de um e-mail, basta separá-los por ponto e virgula sem espaçamento ( ; ). Ex: ciclanodetal@email.com.br;fulanodetal@email.com</p>
+<p class="hint">[Resposta em linha única]</p>
+<h3>CARACTERIZAÇÃO DO SERVIÇO</h3>
+<p class="q">9. Além das consultas e atendimentos médicos, realiza exames de diagnóstico através de imagens radiológicas, registros gráficos, testes rápidos, coleta de material biológico, entre outros, no estabelecimento (clínica / consultório) ? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">10. Realiza exames de diagnostico em pacientes encaminhados por médicos de outros estabelecimentos, com emissão de laudo? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">11. Realiza procedimentos cirúrgicos sob anestesia local, sedação ou anestesia geral no estabelecimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">12. Testes rápidos de análises clínicas <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Indique a realização do exame complementar</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">13. Estudo urodinâmico <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Indique a realização do exame complementar</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">14. Exame de histeroscopia <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Indique a realização do exame complementar</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">15. Teste ergométrico <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Indique a realização do exame complementar</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">16. Endoscopia <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Indique a realização do exame complementar</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>ESTERILIZAÇÃO</h3>
+<p class="q">17. Todo instrumental utilizado no estabelecimento é descartável? (Não utiliza nenhum instrumental passível de esterilização) <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">18. Utiliza instrumental que necessita de esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">19. Realiza a esterilização dos instrumentais no estabelecimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">20. Possui contrato com empresa terceirizada de esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N/A</li>
+</ul>
+<p class="q">21. Informe a RAZÃO SOCIAL do estabelecimento responsável pela esterilização <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">22. Informe o CNPJ do estabelecimento responsável pela esterilização <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">23. Possui autoclave? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">24. Possui lavatório exclusivo para a lavagem de instrumental? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">25. Se a esterilização for realizada no local há espaço adequado, bancadas e equipamentos necessários para o procedimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">26. Existe profissional treinado para realização do procedimento de esterilização? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>EQUIPAMENTOS / MATERIAIS / PROCEDIMENTOS</h3>
+<p class="q">27. Possui comprovantes de manutenção corretiva e preventiva dos equipamentos dentro da validade, quando pertinente?</p>
+<p class="hint">Tipo: Múltipla escolha | Opcional</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">28. Possui equipamento de Raios X médicos instalados? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">29. Realiza dosimetria individual dos profissionais que realizam os exames?</p>
+<p class="hint">Tipo: Múltipla escolha | Opcional</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">30. Possui levantamento radiométrico das salas de exames dentro da validade?</p>
+<p class="hint">Tipo: Múltipla escolha | Opcional</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">31. Possui controle de qualidade dos equipamentos de raio x dentro da validade?</p>
+<p class="hint">Tipo: Múltipla escolha | Opcional</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">32. Raio X - Informe a RAZÃO SOCIAL do estabelecimento responsável pela realização dos testes <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">33. Raio X - Informe o CNPJ do estabelecimento responsável pela realização dos testes <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">34. Raio X - Informe o CEVS do estabelecimento responsável pela realização dos testes <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">35. Possui avental plumbifero e protetor de tireoide?</p>
+<p class="hint">Tipo: Múltipla escolha | Opcional</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">36. Utiliza medicamento/produto termolábil? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">37. No caso de uso de medicamentos/produtos termolábeis, possui refrigerador exclusivo para armazenamento provido de termômetro e registro de controle de monitoramento de temperatura? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">38. Utiliza medicamentos e substâncias sujeitos a controle especial conforme estabelecido na Portaria nº 344, de 12 de maio de 1998? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>RESIDUOS</h3>
+<p class="q">39. Os materiais perfuro cortantes, tais como agulhas, lâminas de bisturi, são descartados em recipiente rígido? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">40. Os resíduos são mantidos em recipiente com tampa, acionada por pedal, separados em lixo comum e lixo infectante? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>DOCUMENTOS GERAIS / OUTROS</h3>
+<p class="q">41. Certificado de Cadastramento com a empresa coletora de Resíduos de Serviços de Saúde - SP REGULA; <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">42. Conta com Manual de Rotinas e Procedimentos dos procedimentos realizados no serviço disponível para consulta de todos os profissionais? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">43. Legislações e guias a serem consultados <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Resolução SS- 002, de 06 de janeiro de 2006 - Aprova Norma Técnica que disciplina as exigências para o funcionamento dos estabelecimentos que realizam procedimentos médico-cirúrgicos de curta permanência institucional no âmbito do Estado de São Paulo<br>RDC Nº 15, DE 15 DE MARÇO DE 2012 - Dispõe sobre requisitos de boas práticas para o processamento de produtos para saúde e dá outras providências<br>PORTARIA Nº 344, DE 12 DE MAIO DE 1998 - Aprova o Regulamento Técnico sobre substâncias e medicamentos sujeitos a controle especial. - PORTARIA Nº 06, DE 29 DE JANEIRO DE 1999 - Aprova a Instrução Normativa da Portaria SVS/MS n.º 344 de 12 de maio de 1998 que instituiu o Regulamento Técnico das substâncias e medicamentos sujeitos a controle especial.<br>RDC Nº 63, DE 25 DE NOVEMBRO DE 2011 - Dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde - RDC Nº 222, DE 28 DE MARÇO DE 2018 - Regulamenta as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e dá outras providências.<br>RDC Nº 36, DE 25 DE JULHO DE 2013 - Institui ações para a segurança do paciente em serviços de saúde e dá outras providências.<br>RDC Nº 50, DE 21 DE FEVEREIRO DE 2002 - Dispõe sobre o Regulamento Técnico para planejamento, programação, elaboração e avaliação de projetos físicos de estabelecimentos assistenciais de saúde.<br>Decreto Estadual nº 12.342/78 - Dispõe sobre normas de promoção, preservação e recuperação da saúde no campo de competência da Secretaria de Estado da Saúde.</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<p class="q">44. Legislações e guias a serem consultados <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">RESOLUÇÃO RDC Nº 611, DE 9 DE Março DE 2022 - Estabelece os requisitos sanitários para a organização e o funcionamento de serviços de radiologia diagnóstica ou intervencionista e regulamenta o controle das exposições médicas, ocupacionais e do público decorrentes do uso de tecnologias radiológicas diagnósticas ou intervencionistas</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h3>Declaro ser responsável pela veracidade e autenticidade de todas as informações apresentadas.</h3>
+<p class="sub">Declaro estar ciente da obrigação de apresentar, a qualquer tempo, a documentação exigida para a exploração da atividade e de prestar todas as informações referentes ao funcionamento do estabelecimento, de forma a assegurar os controles necessários a serem exercidos pelo órgão sanitário municipal.<br>Declaro comprometer-me com a preservação das melhores condições higiênico-sanitárias de instalações, equipamentos, procedimentos e fluxos, notadamente as boas práticas para o exercício da atividade e a adequada conservação dos produtos utilizados.<br>Declaro ainda estar ciente de que a prestação de declaração falsa configura crime previsto no Código Penal Brasileiro, passível de sanções penais, sem prejuízo das sanções administrativas e civis cabíveis.</p>
+<p class="q">45. Declaração de Responsabilidade <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h2>Mensagem de agradecimento</h2>
+<p>Sua resposta foi enviada.<br>Caso não tenha recebido um e-mail automático, o mesmo foi inserido de maneira errada neste formulário.</p>
+</body></html>
