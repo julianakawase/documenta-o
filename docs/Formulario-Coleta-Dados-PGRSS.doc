@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Formulário de Coleta de Dados — PGRSS</title>
+<style>
+body{font-family:Calibri,Arial,sans-serif;max-width:860px;margin:24px auto;padding:0 16px;color:#222;line-height:1.45}
+h1{color:#0B3D2E;font-size:22px;text-align:center;margin-bottom:4px}
+h2{color:#0B3D2E;font-size:15px;border-bottom:2px solid #0B3D2E;padding-bottom:4px;margin-top:28px}
+.sub{text-align:center;color:#444;margin-bottom:18px}
+.note{color:#666;font-size:12px;font-style:italic;margin:6px 0 10px}
+label{display:block;font-weight:700;margin-top:10px;font-size:13px}
+input[type=text],textarea{width:100%;box-sizing:border-box;padding:6px 8px;margin-top:4px;border:1px solid #bbb;border-radius:3px}
+.row{display:flex;gap:12px}.row>div{flex:1}
+.checks label{font-weight:400;margin-top:4px}
+.sec{margin-bottom:8px}
+footer{margin-top:32px;padding-top:12px;border-top:1px solid #ccc;font-size:12px;color:#666}
+</style>
+</head>
+<body>
+<h1>FORMULÁRIO DE COLETA DE DADOS — PGRSS</h1>
+<p class="sub">Plano de Gerenciamento de Resíduos de Serviços de Saúde<br>
+<small>Base: RDC ANVISA nº 222/2018 · CONAMA nº 358/2005</small></p>
+<p class="note">Preencha com as informações do estabelecimento. Os dados serão usados para elaborar o PGRSS.</p>
+
+<div class="row">
+<div><label>Ano de referência</label><input type="text"></div>
+<div><label>Validade pretendida</label><input type="text" placeholder="ex.: 2025–2026"></div>
+</div>
+
+<h2>1. Identificação do estabelecimento</h2>
+<label>Razão social</label><input type="text">
+<label>Nome fantasia</label><input type="text">
+<div class="row">
+<div><label>CNPJ</label><input type="text"></div>
+<div><label>CCM / Inscrição municipal</label><input type="text"></div>
+</div>
+<label>CNAE principal</label><input type="text">
+<p><strong>Tipo de estabelecimento</strong></p>
+<div class="checks">
+<label><input type="checkbox"> Pública</label>
+<label><input type="checkbox"> Filantrópica</label>
+<label><input type="checkbox"> Privada</label>
+<label><input type="checkbox"> Outro: <input type="text" style="width:200px"></label>
+</div>
+<p><strong>Propriedade do imóvel</strong></p>
+<div class="checks">
+<label><input type="checkbox"> Próprio</label>
+<label><input type="checkbox"> Alugado</label>
+<label><input type="checkbox"> Cedido</label>
+<label><input type="checkbox"> Outro</label>
+</div>
+<label>Endereço completo</label><input type="text">
+<div class="row">
+<div><label>Bairro</label><input type="text"></div>
+<div><label>CEP</label><input type="text"></div>
+</div>
+<div class="row">
+<div><label>Município</label><input type="text"></div>
+<div><label>UF</label><input type="text"></div>
+</div>
+<div class="row">
+<div><label>Telefone 1</label><input type="text"></div>
+<div><label>Telefone 2</label><input type="text"></div>
+</div>
+<label>E-mail institucional</label><input type="text">
+
+<h2>2. Responsáveis técnicos</h2>
+<p><strong>2.1 Responsável pelo PGRSS</strong></p>
+<label>Nome completo</label><input type="text">
+<div class="row">
+<div><label>CPF</label><input type="text"></div>
+<div><label>Conselho / nº</label><input type="text" placeholder="CRM/SP ..."></div>
+</div>
+<div class="row">
+<div><label>Telefone</label><input type="text"></div>
+<div><label>E-mail</label><input type="text"></div>
+</div>
+<p><strong>2.2 Responsável técnico do estabelecimento (se diferente)</strong></p>
+<label>Nome completo</label><input type="text">
+<div class="row">
+<div><label>CPF</label><input type="text"></div>
+<div><label>Conselho / nº</label><input type="text"></div>
+</div>
+<label>Especialidade / área</label><input type="text">
+
+<h2>3. Caracterização do estabelecimento</h2>
+<div class="row">
+<div><label>Nº total de funcionários</label><input type="text"></div>
+<div><label>Nº de profissionais da saúde</label><input type="text"></div>
+</div>
+<label>Especialidades / serviços prestados</label><input type="text">
+<div class="row">
+<div><label>Média de atendimentos/dia</label><input type="text"></div>
+<div><label>Horário / dias de funcionamento</label><input type="text"></div>
+</div>
+<label>Área construída (m²) — opcional</label><input type="text">
+<p><strong>Condição atual</strong></p>
+<div class="checks">
+<label><input type="checkbox"> Em atividade</label>
+<label><input type="checkbox"> Em implantação</label>
+<label><input type="checkbox"> Em expansão</label>
+<label><input type="checkbox"> Em relocalização</label>
+</div>
+<p><strong>Abastecimento de água</strong></p>
+<div class="checks">
+<label><input type="checkbox"> Rede pública (concessionária)</label>
+<label><input type="checkbox"> Captação própria</label>
+<label><input type="checkbox"> Consumo interno / outro</label>
+</div>
+<p><strong>Esgotamento sanitário</strong></p>
+<div class="checks">
+<label><input type="checkbox"> Rede pública de esgoto</label>
+<label><input type="checkbox"> Fossa séptica</label>
+<label><input type="checkbox"> Outro</label>
+</div>
+
+<h2>4. Descrição da atividade</h2>
+<label>Descrição das atividades</label>
+<textarea rows="4"></textarea>
+<p><strong>Há geração de RSS?</strong></p>
+<div class="checks">
+<label><input type="checkbox"> Sim</label>
+<label><input type="checkbox"> Não</label>
+</div>
+
+<h2>5. Resíduos gerados — CONAMA 358/2005</h2>
+
+<div class="sec">
+<p><strong>Grupo A — Infectantes</strong> <span class="note">(compressas, gazes, materiais com sangue/secreções)</span></p>
+<div class="checks">
+<label><input type="checkbox"> Gera</label>
+<label><input type="checkbox"> Não gera</label>
+</div>
+<label>Descrição dos resíduos</label><input type="text">
+<label>Estimativa (qtd./frequência)</label><input type="text" placeholder="ex.: 2 sacos/semana">
+</div>
+
+<div class="sec">
+<p><strong>Grupo B — Químicos</strong> <span class="note">(medicamentos vencidos, desinfetantes, reveladores)</span></p>
+<div class="checks">
+<label><input type="checkbox"> Gera</label>
+<label><input type="checkbox"> Não gera</label>
+</div>
+<label>Descrição dos resíduos</label><input type="text">
+<label>Estimativa (qtd./frequência)</label><input type="text" placeholder="ex.: 2 sacos/semana">
+</div>
+
+<div class="sec">
+<p><strong>Grupo C — Radioativos</strong> <span class="note">(se aplicável)</span></p>
+<div class="checks">
+<label><input type="checkbox"> Gera</label>
+<label><input type="checkbox"> Não gera</label>
+</div>
+<label>Descrição dos resíduos</label><input type="text">
+<label>Estimativa (qtd./frequência)</label><input type="text" placeholder="ex.: 2 sacos/semana">
+</div>
+
+<div class="sec">
+<p><strong>Grupo D — Comuns</strong> <span class="note">(papel, plástico limpo, restos de alimento)</span></p>
+<div class="checks">
+<label><input type="checkbox"> Gera</label>
+<label><input type="checkbox"> Não gera</label>
+</div>
+<label>Descrição dos resíduos</label><input type="text">
+<label>Estimativa (qtd./frequência)</label><input type="text" placeholder="ex.: 2 sacos/semana">
+</div>
+
+<div class="sec">
+<p><strong>Grupo E — Perfurocortantes</strong> <span class="note">(agulhas, lâminas, ampolas, lancetas)</span></p>
+<div class="checks">
+<label><input type="checkbox"> Gera</label>
+<label><input type="checkbox"> Não gera</label>
+</div>
+<label>Descrição dos resíduos</label><input type="text">
+<label>Estimativa (qtd./frequência)</label><input type="text" placeholder="ex.: 2 sacos/semana">
+</div>
+
+<h2>6. Locais de geração</h2>
+<div class="checks">
+<label><input type="checkbox"> Consultórios / salas de atendimento</label>
+<label><input type="checkbox"> Sala de procedimentos / cirurgia</label>
+<label><input type="checkbox"> Sala de coleta / laboratório</label>
+<label><input type="checkbox"> Sala de esterilização / CME</label>
+<label><input type="checkbox"> Farmácia / sala de medicação</label>
+<label><input type="checkbox"> Recepção / administrativo</label>
+<label><input type="checkbox"> Copa / refeitório</label>
+<label><input type="checkbox"> Banheiros</label>
+<label><input type="checkbox"> Outro</label>
+</div>
+
+<h2>7. Manejo e segregação</h2>
+<label>Como é feita a segregação na origem?</label><textarea rows="3"></textarea>
+<label>Quem realiza a segregação/coleta interna?</label><input type="text">
+<label>Frequência da coleta interna</label><input type="text">
+
+<h2>8. Acondicionamento</h2>
+<label>Grupo A — recipiente/saco</label><input type="text" placeholder="ex.: saco branco leitoso">
+<label>Grupo B — recipiente</label><input type="text" placeholder="ex.: Descarpack laranja">
+<label>Grupo C — recipiente</label><input type="text">
+<label>Grupo D — recipiente/saco</label><input type="text" placeholder="ex.: saco preto">
+<label>Grupo E — recipiente</label><input type="text" placeholder="ex.: Descarpack">
+<label>Identificação dos recipientes</label><input type="text">
+
+<h2>9. Armazenamento temporário e externo</h2>
+<p><strong>9.1 Abrigo temporário</strong></p>
+<div class="checks">
+<label><input type="checkbox"> Possui local exclusivo</label>
+<label><input type="checkbox"> Não possui</label>
+</div>
+<label>Localização no imóvel</label><input type="text">
+<label>Características</label><textarea rows="2"></textarea>
+<p><strong>9.2 Ponto de coleta externa</strong></p>
+<label>Local de entrega à coleta</label><input type="text">
+<label>Frequência de retirada</label><input type="text">
+<label>Dias/horários</label><input type="text">
+
+<h2>10. Coleta externa e destinação final</h2>
+<label>Empresa coletora / destinadora de RSS</label><input type="text">
+<label>CNPJ da coletora</label><input type="text">
+<label>Contrato / nº</label><input type="text">
+<label>Tipo de tratamento/destino</label><input type="text" placeholder="incineração, autoclave, aterro...">
+<label>Coleta de resíduos comuns</label><input type="text">
+<p><strong>Documentos disponíveis</strong></p>
+<div class="checks">
+<label><input type="checkbox"> Contrato com coletora de RSS</label>
+<label><input type="checkbox"> MTRs / comprovantes de destinação</label>
+<label><input type="checkbox"> Licença da destinadora</label>
+<label><input type="checkbox"> Nenhum no momento</label>
+</div>
+
+<h2>11. Segurança operacional e EPIs</h2>
+<div class="checks">
+<label><input type="checkbox"> Luvas</label>
+<label><input type="checkbox"> Óculos de proteção</label>
+<label><input type="checkbox"> Máscara</label>
+<label><input type="checkbox"> Avental / jaleco impermeável</label>
+<label><input type="checkbox"> Calçado de segurança</label>
+<label><input type="checkbox"> Outro</label>
+</div>
+<label>Treinamento sobre manejo de RSS?</label><input type="text" placeholder="Sim/Não — frequência">
+<label>POP / procedimento escrito de resíduos?</label><input type="text">
+<label>Vacinação dos colaboradores</label><input type="text" placeholder="Sim / Não / Parcial">
+
+<h2>12. Acidentes e contingência</h2>
+<label>Procedimento para acidente com perfurocortante/biológico?</label><input type="text">
+<label>Responsável pelo pós-acidente</label><input type="text">
+<label>Observações</label><textarea rows="2"></textarea>
+
+<h2>13. Documentos a anexar</h2>
+<div class="checks">
+<label><input type="checkbox"> Cartão CNPJ</label>
+<label><input type="checkbox"> Contrato social</label>
+<label><input type="checkbox"> Alvará / licença sanitária</label>
+<label><input type="checkbox"> Documento do RT</label>
+<label><input type="checkbox"> Contrato da coletora de RSS</label>
+<label><input type="checkbox"> Comprovantes de destinação (MTR)</label>
+<label><input type="checkbox"> Planta/croqui do abrigo</label>
+<label><input type="checkbox"> Fotos do abrigo / recipientes</label>
+</div>
+
+<h2>14. Observações do cliente</h2>
+<textarea rows="4"></textarea>
+
+<h2>15. Declaração e assinatura</h2>
+<p class="note">Declaro que as informações são verdadeiras e autorizo o uso para elaboração do PGRSS.</p>
+<div class="row">
+<div><label>Local</label><input type="text"></div>
+<div><label>Data</label><input type="text"></div>
+</div>
+<label>Nome do declarante</label><input type="text">
+<div class="row">
+<div><label>CPF</label><input type="text"></div>
+<div><label>Cargo / função</label><input type="text"></div>
+</div>
+<label>Assinatura</label><input type="text">
+
+<h2>Uso interno — consultoria</h2>
+<label>Nº do processo / pasta</label><input type="text">
+<label>Elaborador do PGRSS</label><input type="text">
+<label>Data de recebimento</label><input type="text">
+<label>Data prevista de entrega</label><input type="text">
+<label>Observações técnicas</label><textarea rows="2"></textarea>
+
+<footer>Formulário de coleta para elaboração de PGRSS · Uso interno da consultoria</footer>
+</body></html>
