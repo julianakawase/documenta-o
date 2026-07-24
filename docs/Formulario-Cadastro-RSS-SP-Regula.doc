@@ -1,0 +1,64 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>Formulário Cadastro RSS SP Regula</title>
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222}
+h1{color:#B71C1C;font-size:17pt}h2{color:#7F1D1D;font-size:13pt;margin-top:16pt}
+h3{color:#4A1C1C;font-size:11pt}.note{font-style:italic;color:#555;font-size:9pt}
+table{border-collapse:collapse;width:100%;margin:8px 0}th,td{border:1px solid #888;padding:6px;font-size:9pt}
+th{color:#7F1D1D;text-align:left}.req{color:#b71c1c}</style></head><body>
+<h1>Formulário de Coleta de Dados — Cadastro RSS (SP Regula)</h1>
+<p><b>Geradores de Resíduos dos Serviços de Saúde — RSSS</b><br>
+Portal: https://cadastros-spregula.coletas.online/auth/Opcoes</p>
+<p class="note">Campos com <span class="req">*</span> obrigatórios no fluxo eletrônico. Extraído da API/interface SP Regula e orientação oficial.</p>
+<h2>0. Tipo de solicitação</h2>
+<p>☐ Novo Cadastro &nbsp; ☐ Alteração / Atualização &nbsp; ☐ Renovação &nbsp; ☐ Cancelamento</p>
+<p>☐ Pessoa Jurídica (CNPJ) &nbsp; ☐ Pessoa Física (CPF)</p>
+<h2>1. Identificação do estabelecimento</h2>
+<p><b>CPF/CNPJ *</b> _________________________________</p>
+<p><b>Razão social *</b> _________________________________</p>
+<p><b>Nome fantasia *</b> _________________________________</p>
+<p><b>CCM *</b> _________________________________ (com código TRSS)</p>
+<p><b>Código TRSS</b> _________________________________</p>
+<p><b>E-mail *</b> _________________________________</p>
+<p><b>Telefone</b> _____________ <b>Celular</b> _____________</p>
+<h2>2. Endereço / local de coleta</h2>
+<p><b>CEP *</b> ________ <b>Logradouro *</b> ________________ <b>Nº *</b> ____</p>
+<p><b>Complemento</b> ________ <b>Bairro *</b> ________ <b>Cidade *</b> São Paulo <b>UF *</b> SP</p>
+<p><b>Subprefeitura</b> ________________</p>
+<h2>3. Dados específicos RSS</h2>
+<p><b>Tipo de estabelecimento *</b> _________________________________</p>
+<p>☐ Hospital ☐ Clínica médica ☐ Odontológica ☐ Veterinária ☐ Farmácia ☐ Laboratório ☐ Outro: ______</p>
+<p><b>Leitos ativos *</b> (se hospital) ____ <b>Leitos inativos *</b> ____</p>
+<p><b>Classificação do estabelecimento *</b> _________________________________</p>
+<p><b>Tipo de empresa *</b> _____________ <b>Faixa de valores *</b> _____________</p>
+<h2>4. Responsável Legal</h2>
+<p><b>Nome *</b> ________________ <b>CPF</b> ________ <b>Função</b> ________</p>
+<h2>5. Responsável Técnico</h2>
+<p><b>Nome *</b> ________________</p>
+<p><b>Tipo documento *</b> ☐ CRM ☐ CRO ☐ CRMV ☐ COREN ☐ CRF ☐ CRBio ☐ RG+curso ☐ Outro</p>
+<p><b>Número registro *</b> ________________</p>
+<h2>6. Caracterização dos resíduos</h2>
+<table><tr><th>Grupo</th><th>Código/Tipo</th><th>Descrição</th><th>Kg/mês</th><th>Acondicionamento</th></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr>
+</table>
+<p>☐ A Biológicos &nbsp; ☐ B Químicos &nbsp; ☐ E Perfurocortantes</p>
+<h2>7. Locais de coleta adicionais</h2>
+<table><tr><th>CEP</th><th>Logradouro</th><th>Nº</th><th>Bairro</th><th>Cidade/UF</th></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr>
+</table>
+<h2>8. Locais de armazenagem</h2>
+<table><tr><th>CEP</th><th>Logradouro</th><th>Nº</th><th>Tipo abrigo</th><th>Obs.</th></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr><tr><td>&nbsp;</td><td></td><td></td><td></td><td></td></tr>
+</table>
+<h2>9. Complementares</h2>
+<p>Nº colaboradores ____ Consumo água ____ Consumo energia ____ CNAE ________________</p>
+<h2>10. Documentos obrigatórios</h2>
+<p><b>Novo Cadastro:</b></p>
+<ul><li>☐ IPTU (Imposto Predial e Territorial Urbano);</li><li>☐ Ficha de Dados Cadastrais (FDC) do CCM contendo o código da TRSS;</li><li>☐ Carteira do Conselho Regional do Responsável Técnico (CRM, CRMV, CRO, COREN, CRF, CRBio etc.);</li><li>☐ CNPJ (PJ) ou CPF (PF) — cópia ou impressão da Internet.</li></ul>
+<p><b>Alteração / Atualização (adicionais):</b></p>
+<ul><li>☐ Taxa de Resíduos Sólidos de Saúde – TRSS;</li><li>☐ Certificado de Cadastramento;</li><li>☐ Cartão de Código de Barras (Verde) / cartão de identificação com QR Code.</li></ul>
+<h2>11. Declaração</h2>
+<p>Declaro a veracidade das informações para cadastro RSS no SP Regula (Lei 13.478/2002).</p>
+<p>São Paulo, _____/_____/__________</p>
+<p>_______________________________<br>Responsável Legal</p>
+<p>_______________________________<br>Responsável Técnico</p>
+</body></html>
