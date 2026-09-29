@@ -1,0 +1,280 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>DCA 8650-0/04 Atividades de Fisioterapia</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View></w:WordDocument></xml><![endif]-->
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222}h1{color:#1F3A5F;font-size:18pt}h2{color:#2E4A6E;font-size:14pt;margin-top:18pt}h3{color:#3A5A7A;font-size:12pt;margin-top:14pt}.meta{color:#666;font-size:9pt}.req{color:#c00}.q{margin-top:10pt;font-weight:bold}.hint{color:#888;font-size:9pt}.sub{font-style:italic;font-size:10pt}</style></head><body>
+<h1>DCA 8650-0/04 Atividades de Fisioterapia</h1>
+<p class="meta">Fonte: Microsoft Forms | Status: Active | Idioma: pt-BR | Criado: 2025-08-13T18:09:54.903Z | Modificado: 2025-08-18T12:43:34.25Z</p>
+<p class="meta">URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=nN-Y8wz9KUigA8dwocSgY4rUn0LkQVFMtVuLOpOGT5dURVk4SjA0VjYyM1pEUDZURklaQU9OV0taRC4u&amp;route=shorturl</p>
+<h2>Descrição</h2>
+<p>Compreende: As atividades de reabilitação física prestadas a pacientes que não estão sob regime de internação por profissionais fisioterapeutas. Os locais de realização destas atividades são ambulatórios, clínicas especializadas, policlínicas, sob responsabilidade técnica de profissionais de fisioterapia, desde que sejam equipados para a reabilitação física de pacientes sob indicação médica;<br><br>Preencher essa planilha de forma eletrônica. Depois de devidamente preenchida, uma resposta automática com os resultados irá chegar em sua caixa de entrada(e-mail), assiná-la e encaminhá-la juntamente com a solicitação de Licenciamento</p>
+<h2>Perguntas (47)</h2>
+<p class="q">1. RAZÃO SOCIAL: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">2. CNPJ: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">(CNPJ - O campo deve ser preenchido apenas com números, no formato XX.XXX.XXX/XXXX-XX e com 14 dígitos)</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">3. ENDEREÇO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">4. BAIRRO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">5. CEP: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">6. HORÁRIO DE FUNCIONAMENTO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Especificar os dias da semana e os horários.<br>Ex: De segunda a sexta, das 07h as 18h</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">7. TELEFONE: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Telefone do estabelecimento<br>O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">8. E-MAIL: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">E-mail do estabelecimento<br>Este que receberá a resposta automática com as informações necessárias.<br>Caso queira inserir mais de um e-mail, basta separá-los por ponto e virgula sem espaçamento ( ; ). Ex: ciclanodetal@email.com.br;fulanodetal@email.com</p>
+<p class="hint">[Resposta em linha única]</p>
+<h3>TIPOS DE PROCEDIMENTOS REALIZADOS NESTA UNIDADE:</h3>
+<p class="q">9. Exercícios terapêuticos, terapia manual, técnicas respiratórias <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">10. Eletroterapia, Termoterapia, Crioterapia <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">11. Terapia aquática (hidroterapia) <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>TERAPIA AQUÁTICA</h3>
+<p class="q">12. Qual estrutura utilizada para a terapia aquática? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Piscina</li>
+<li>Tanque</li>
+<li>Banheira</li>
+</ul>
+<p class="q">13. A água utilizada na terapia aquática é proveniente de: <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Fonte Alternativa</li>
+<li>Rede Pública</li>
+</ul>
+<p class="q">14. Qual fonte alternativa fornece a água utilizada na terapia aquática? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Poço Comum</li>
+<li>Poço Artesiano</li>
+<li>Caminhão Pipa</li>
+</ul>
+<p class="q">15. Informe a RAZÃO SOCIAL do estabelecimento responsável pelo Caminhão Pipa <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">16. Informe a CNPJ do estabelecimento responsável pelo Caminhão Pipa <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">17. São realizados os testes químicos de potabilidade, cloração e pH, da água utilizada na terapia aquática conforme definido pelas normas técnicas específicas? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">18. São realizados os procedimentos de higienização e manutenção periódica dos equipamentos e qualidade da água na terapia aquática, conforme definido pelas normas técnicas específicas? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>TIPOS DE PROCEDIMENTOS REALIZADOS NESTA UNIDADE:</h3>
+<p class="q">19. Reabilitação cardiovascular <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">20. Fisioterapia Geriátrica / Pediátrica <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">21. Fisioterapia Dermatofuncional <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>CARACTERIZAÇÃO DO SERVIÇO - RECURSOS HUMANOS</h3>
+<p class="q">22. Médico <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">23. Fisioterapeuta <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">24. Enfermeiro <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">25. Fonoaudiólogo <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">26. Outros - Informe a formação de nível superior dos demais profissionais caso não tenha informado acima <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<h3>DOCUMENTOS GERAIS / OUTROS</h3>
+<p class="q">27. Possui certificado do estabelecimento e do responsável técnico perante o respectivo conselho de classe? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>INDICAÇÃO DA REABILITAÇÃO</h3>
+<p class="q">28. Indicação da Reabilitação <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Prescrita por profissional médico do próprio serviço</li>
+<li>Prescrita por profissional médico de serviços externos</li>
+<li>Conforme avaliação do profissional de fisioterapia do próprio serviço</li>
+<li>Sem prescrição por solicitação do próprio paciente</li>
+</ul>
+<h3>ESTRUTURA FÍSICA</h3>
+<p class="q">29. O estabelecimento possui entrada independente e suas dependências são de uso exclusivo, não servindo de passagem para outro local? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">30. A estrutura física do estabelecimento atende as exigências e condições de acessibilidade aos pacientes com restrição de mobilidade física e necessidades motoras, conforme previstas nas legislações específicas? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">31. Pia exclusiva para lavagem de mãos com sabão e papel toalha na área destinada ao atendimento de pacientes? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>EQUIPAMENTOS / MATERIAIS / PROCEDIMENTOS</h3>
+<p class="q">32. Utiliza medicamentos de uso controlado, injetáveis e/ou termolábeis nas terapias realizadas no estabelecimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">33. Os equipamentos utilizados nas terapias estão regularizados perante a ANVISA/MS? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">34. Realiza manutenção preventiva e corretiva nos equipamentos utilizados nas terapias <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<h3>RESÍDUOS GERADOS</h3>
+<p class="q">35. Nas terapias e procedimentos realizadas são gerados resíduos perfurocortantes (agulhas, bisturi, lancetas etc) <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">36. Nos procedimentos e terapias realizadas são gerados resíduos contaminantes (sangue, secreção, material orgânico etc)? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>DOCUMENTOS GERAIS / OUTROS</h3>
+<p class="q">37. Certificado de limpeza/higienização do reservatório de água potável, atualizado; <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">38. Comprovante de controle de pragas urbanas, atualizado; <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">39. Procedimentos Operacionais Padrão (POP) de higienização, manutenção de equipamentos, de atendimentos, entre outros <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">40. Conta com Manual de Rotinas e Procedimentos dos procedimentos realizados no serviço disponível para consulta de todos os profissionais? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">41. Comprovante de manutenção dos aparelhos de ar condicionado (se houver) ou Nota fiscal de compra (caso seja aparelho novo) ou PMOC (Plano de Manutenção, Operação e Controle) dos aparelhos de ar condicionado; <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">42. Os lençóis, protetores de travesseiros e toalhas utilizados no estabelecimento são descartáveis? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>SERVIÇOS TERCEIRIZADOS</h3>
+<p class="q">43. LAVANDERIA - Possui o serviço terceirizado? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">44. RAZÃO SOCIAL - LAVANDERIA <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">45. CNPJ - LAVANDERIA <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">46. Legislações e guias a serem consultados <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Resolução SS- 002, de 06 de janeiro de 2006 - Aprova Norma Técnica que disciplina as exigências para o funcionamento dos estabelecimentos que realizam procedimentos médico-cirúrgicos de curta permanência institucional no âmbito do Estado de São Paulo  RDC Nº 15, DE 15 DE MARÇO DE 2012 - Dispõe sobre requisitos de boas práticas para o processamento de produtos para saúde e dá outras providências PORTARIA CVS-15, de 19-11-99 - Aprova NORMA TÉCNICA que trata da execução de procedimentos em estética, em emagrecimento e inerentes à denominada prática ortomolecular nos estabelecimentos de saúde cujas condições de funcionamento especifica e dá providências correlatas. PORTARIA Nº 344, DE 12 DE MAIO DE 1998 - Aprova o Regulamento Técnico sobre substâncias e medicamentos sujeitos a controle especial. - PORTARIA Nº 06, DE 29 DE JANEIRO DE 1999 - Aprova a Instrução Normativa da Portaria SVS/MS n.º 344 de 12 de maio de 1998 que instituiu o Regulamento Técnico das substâncias e medicamentos sujeitos a controle especial. RDC Nº 63, DE 25 DE NOVEMBRO DE 2011 - Dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde - RDC Nº 222, DE 28 DE MARÇO DE 2018 - Regulamenta as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e dá outras providências. RDC Nº 36, DE 25 DE JULHO DE 2013 - Institui ações para a segurança do paciente em serviços de saúde e dá outras providências. RDC Nº 50, DE 21 DE FEVEREIRO DE 2002 - Dispõe sobre o Regulamento Técnico para planejamento, programação, elaboração e avaliação de projetos físicos de estabelecimentos assistenciais de saúde. Decreto Estadual nº 12.342/78 - Dispõe sobre normas de promoção, preservação e recuperação da saúde no campo de competência da Secretaria de Estado da Saúde. Art.263 e 264.</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h3>Declaro ser responsável pela veracidade e autenticidade de todas as informações apresentadas.</h3>
+<p class="sub">Declaro estar ciente da obrigação de apresentar, a qualquer tempo, a documentação exigida para a exploração da atividade e de prestar todas as informações referentes ao funcionamento do estabelecimento, de forma a assegurar os controles necessários a serem exercidos pelo órgão sanitário municipal.<br>Declaro comprometer-me com a preservação das melhores condições higiênico-sanitárias de instalações, equipamentos, procedimentos e fluxos, notadamente as boas práticas para o exercício da atividade e a adequada conservação dos produtos utilizados.<br>Declaro ainda estar ciente de que a prestação de declaração falsa configura crime previsto no Código Penal Brasileiro, passível de sanções penais, sem prejuízo das sanções administrativas e civis cabíveis.</p>
+<p class="q">47. Declaração de Responsabilidade <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h2>Mensagem de agradecimento</h2>
+<p>Sua resposta foi enviada.<br>Caso não tenha recebido um e-mail automático, o mesmo foi inserido de maneira errada neste formulário.</p>
+</body></html>

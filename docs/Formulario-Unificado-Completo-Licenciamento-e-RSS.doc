@@ -1,0 +1,86 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>Formulário Unificado Completo</title>
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:10pt}h1{color:#1F3A5F;font-size:16pt}h2{color:#2E4A6E;font-size:12pt;margin-top:14pt}h3{color:#3A5A7A;font-size:11pt}.note{font-style:italic;color:#555;font-size:8pt}table{border-collapse:collapse;width:100%}th,td{border:1px solid #888;padding:4px;font-size:8pt}.res{margin:4px 0 8px 8px}</style></head><body>
+<h1>Formulário Unificado de Coleta de Dados</h1>
+<p><b>Licenciamento sanitário (CMVS + MDS) + Cadastro RSS (SP Regula)</b><br>Um único formulário — sem duplicidade de campos comuns.</p>
+<h2>0. Finalidade</h2><p>☐ Licenciamento CMVS/MDS &nbsp; ☐ Cadastro RSS SP Regula &nbsp; ☐ Ambos</p>
+<p>☐ Novo Cadastro RSS &nbsp; ☐ Alteração &nbsp; ☐ Renovação &nbsp; ☐ Cancelamento &nbsp; | &nbsp; ☐ PJ &nbsp; ☐ PF</p>
+<h2>1. Identificação</h2>
+<p><b>CPF/CNPJ *</b> ________ <b>Razão social *</b> ________ <b>Nome fantasia *</b> ________</p>
+<p><b>CNAE</b> ________ <b>CCM *</b> ________ <b>TRSS *</b> ________ <b>CMVS</b> ________ <b>Cód. SP Regula</b> ________</p>
+<p><b>E-mail *</b> ________ <b>Tel</b> ________ <b>Cel</b> ________ <b>Horário</b> ________ <b>Funcionários</b> ________</p>
+<h2>2. Endereço / coleta principal</h2>
+<p><b>CEP *</b> ____ <b>Logradouro *</b> ________ <b>Nº *</b> ____ <b>Compl.</b> ____ <b>Bairro *</b> ____ <b>Cidade *</b> São Paulo <b>UF *</b> SP</p>
+<h2>3. Enquadramento RSS</h2>
+<p><b>Tipo estabelecimento *</b> ________ &nbsp; ☐ Hospital (leitos ativos * ____ / inativos * ____)</p>
+<p><b>Classificação *</b> ________ <b>Tipo empresa *</b> ________ <b>Faixa valores *</b> ________</p>
+<h2>4. Responsáveis</h2>
+<p><b>Legal *:</b> Nome ________ CPF ________ RG/CNH ________ Função ________</p>
+<p><b>Técnico *:</b> Nome ________ CPF ________ Conselho ☐CRM ☐CRO ☐CRMV ☐COREN ☐CRF ☐CRBio ☐Outro &nbsp; Nº ________</p>
+<p><b>RT Substituto:</b> Nome ________ CPF ________ Conselho/Nº ________</p>
+<h2>5. Estrutura CMVS</h2>
+<p>Vínculo ____ Autônomos ____ PJ ____ Terceirizados ____ | Consultórios: Ped ____ Fem ____ Masc ____ Outros ____</p>
+<p>Salas: Peq.cir ____ Neb ____ Gesso ____ Imun ____ Cur ____ Enf ____ Cir.amb ____</p>
+<h2>6. Atividades (MDS)</h2>
+<p>________________________________________________________________</p><p>________________________________________________________________</p>
+<h2>7. Equipamentos</h2>
+<table><tr><th>Equipamento</th><th>Modelo</th><th>Marca</th><th>Série</th><th>ANVISA</th></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<h2>8. Limpeza / esterilização</h2><p>________________________________________________________________</p>
+<h2>9. Água</h2><p>________________________________________________________________</p>
+<h2>10. Caracterização dos resíduos</h2>
+<p class="note">Marque os tipos gerados (lista SP Regula / CONAMA) e informe Kg/dia + acondicionamento.</p>
+<div class="res">☐ <b>A / A-1 / 1</b> Culturas e estoques de microrganismos; resíduos de fabricação de produtos biológicos (exceto hemoderivados); descarte de vacinas de microrganismos vivos ou atenuados; meios de cultura e instrumentais usados para transferência/inoculação/mistura de culturas; resíduos de laboratórios de manipulação genética.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-1 / 2</b> Resíduos da atenção à saúde de indivíduos ou animais com suspeita/certeza de contaminação biológica por agentes classe de risco 4, microrganismos com relevância epidemiológica e risco de disseminação, doença emergente ou mecanismo de transmissão desconhecido.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-1 / 3</b> Bolsas transfusionais contendo sangue ou hemocomponentes rejeitadas por contaminação, má conservação ou validade vencida, e as oriundas de coleta incompleta.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-1 / 4</b> Sobras de amostras de laboratório contendo sangue ou líquidos corpóreos; recipientes e materiais da assistência à saúde contendo sangue ou líquidos corpóreos na forma livre.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-2</b> Carcaças, peças anatômicas, vísceras e outros resíduos de animais submetidos a experimentação com inoculação de microrganismos, suas forrações, e cadáveres de animais suspeitos de portarem microrganismos de relevância epidemiológica.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-3</b> Peças anatômicas (membros) humanas; produto de fecundação sem sinais vitais (&lt;500 g / &lt;25 cm / &lt;20 semanas), sem valor científico/legal e sem requisição do paciente/familiares.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-4 / 1</b> Kits de linhas arteriais, endovenosas e dialisadores, quando descartados.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-4 / 2</b> Filtros de ar e gases aspirados de área contaminada; membrana filtrante de equipamento médico-hospitalar e de pesquisa, e similares.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-4 / 3</b> Sobras de amostras de laboratório e recipientes com fezes, urina e secreções de pacientes sem agentes classe de risco 4 / relevância epidemiológica / príons.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-4 / 4</b> Resíduos de tecido adiposo de lipoaspiração, lipoescultura ou outro procedimento de cirurgia plástica que gere este resíduo.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-4 / 5</b> Recipientes e materiais da assistência à saúde que não contenham sangue ou líquidos corpóreos na forma livre.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-4 / 6</b> Peças anatômicas (órgãos e tecidos) e outros resíduos de procedimentos cirúrgicos ou estudos anátomo-patológicos / confirmação diagnóstica.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-4 / 7</b> Carcaças, peças anatômicas, vísceras e resíduos de animais não submetidos a experimentação com inoculação de microrganismos, e suas forrações.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-4 / 8</b> Bolsas transfusionais vazias ou com volume residual pós-transfusão.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>A / A-5</b> Órgãos, tecidos, fluidos orgânicos, materiais perfurocortantes/escarificantes e demais materiais com suspeita/certeza de contaminação com príons.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>B — a</b> Produtos hormonais e antimicrobianos; citostáticos; antineoplásicos; imunossupressores; digitálicos; imunomoduladores; antirretrovirais descartados por serviços de saúde/farmácias/drogarias/distribuidores ou apreendidos; resíduos e insumos de medicamentos controlados (Portaria MS 344/98).<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>B — b</b> Resíduos de saneantes, desinfetantes, desinfestantes; resíduos com metais pesados; reagentes de laboratório, inclusive recipientes contaminados.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>B — e</b> Demais produtos perigosos conforme NBR 10.004/ABNT (tóxicos, corrosivos, inflamáveis e reativos).<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<div class="res">☐ <b>E</b> Materiais perfurocortantes ou escarificantes: lâminas de barbear, agulhas, escalpes, ampolas de vidro, brocas, limas endodônticas, pontas diamantadas, lâminas de bisturi, lancetas; tubos capilares; micropipetas; lâminas e lamínulas; espátulas; utensílios de vidro quebrados em laboratório e similares.<br>&nbsp;&nbsp;Qtde (Kg/dia): ______ Acondicionamento: ________________</div>
+<h3>Fluxo de gerenciamento</h3><p>________________________________________________________________</p>
+<h3>Locais coleta adicionais / armazenagem</h3>
+<table><tr><th>CEP</th><th>Logradouro</th><th>Nº</th><th>Bairro</th><th>Tipo abrigo / obs.</th></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<h2>11. Contingência de energia</h2><p>________________________________________________________________</p>
+<h2>12. Documentos (checklist único)</h2><ul>
+<li>☐ 1. Acesso do Certificado digital do CNPJ (arquivo de instalação e senha);</li>
+<li>☐ 2. Cópia do Contrato Social (última alteração);</li>
+<li>☐ 3. CNPJ (PJ) ou CPF (PF) — cópia ou impressão da Internet;</li>
+<li>☐ 4. RG, CPF ou CNH do Responsável Legal;</li>
+<li>☐ 5. RG, CPF ou CNH do Responsável Técnico;</li>
+<li>☐ 6. Cópia da carteira do Conselho Regional do RT (CRM, CRO, CRMV, COREN, CRF, CRBio etc.). Se o RT não for o solicitante: contrato de trabalho com foto da capa da CTPS (CLT) ou Contrato PJ com carga horária e firma reconhecida;</li>
+<li>☐ 7. CCM / FDC contendo o código da TRSS;</li>
+<li>☐ 8. Cópia do IPTU;</li>
+<li>☐ 9. Cópia do AVCB;</li>
+<li>☐ 10. ART ou RRT da clínica.</li>
+</ul><p><b>Adicionais alteração RSS:</b></p><ul>
+<li>☐ 1. Taxa de Resíduos Sólidos de Saúde – TRSS;</li>
+<li>☐ 2. Certificado de Cadastramento SP Regula;</li>
+<li>☐ 3. Cartão de Código de Barras (Verde) / cartão de identificação com QR Code.</li>
+</ul>
+<h2>13. Declaração</h2>
+<p>Declaramos a veracidade das informações para licenciamento e/ou cadastro RSS SP Regula (Lei 13.478/2002).</p>
+<p>São Paulo, _____/_____/__________</p>
+<p>_______________________________<br>Responsável Legal — CPF/RG: ________</p>
+<p>_______________________________<br>Responsável Técnico — Registro: ________</p>
+<p class="note">Identificação, responsáveis, endereço e documentos aparecem uma única vez.</p>
+</body></html>

@@ -1,0 +1,174 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head><meta charset="utf-8"><title>8640-2/07 - Serviços de diagnóstico por imagem sem uso de radiação ionizante</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View></w:WordDocument></xml><![endif]-->
+<style>body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#222}h1{color:#1F3A5F;font-size:18pt}h2{color:#2E4A6E;font-size:14pt;margin-top:18pt}h3{color:#3A5A7A;font-size:12pt;margin-top:14pt}.meta{color:#666;font-size:9pt}.req{color:#c00}.q{margin-top:10pt;font-weight:bold}.hint{color:#888;font-size:9pt}.sub{font-style:italic;font-size:10pt}</style></head><body>
+<h1>8640-2/07 - Serviços de diagnóstico por imagem sem uso de radiação ionizante</h1>
+<p class="meta">Fonte: Microsoft Forms | Status: Active | Idioma: pt-BR | Criado: 2025-07-28T12:14:52.017Z | Modificado: 2025-08-20T17:53:57.693Z</p>
+<p class="meta">URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=nN-Y8wz9KUigA8dwocSgY4rUn0LkQVFMtVuLOpOGT5dURFVKOTMzNlBSWEZKTFQzUzZaMzFMSjZPUi4u&amp;route=shorturl</p>
+<h2>Descrição</h2>
+<p>8640-2/07 - Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética<br><br>Compreende:  Estabelecimento no qual se prestam serviços de diagnóstico por imagem, sem uso de radiação ionizante, com ou sem ressonância magnética e equipamentos de ultrassom. O atendimento se restringe a realização de exames de ultrassonografia e ressonância magnética<br><br>Preencher essa planilha de forma eletrônica. Depois de devidamente preenchida, uma resposta automática com os resultados irá chegar em sua caixa de entrada(e-mail), assiná-la e encaminhá-la juntamente com a solicitação de Licenciamento</p>
+<h2>Perguntas (28)</h2>
+<p class="q">1. RAZÃO SOCIAL: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">2. CNPJ: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">(O campo deve ser preenchido apenas com números, no formato XX.XXX.XXX/XXXX-XX e com 14 dígitos)</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">3. ENDEREÇO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">4. BAIRRO: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">5. CEP: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">6. Horário de Funcionamento: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Ex: De segunda a sexta, das 07h as 18h</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">7. Telefone: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">Telefone do estabelecimento<br>O campo deve ser preenchido apenas com números.</p>
+<p class="hint">[Resposta em linha única]</p>
+<p class="q">8. E-mail: <span class="req">*</span></p>
+<p class="hint">Tipo: Campo de texto | Obrigatória</p>
+<p class="sub">E-mail do estabelecimento<br>Este que receberá a resposta automática com as informações necessárias.<br>Caso queira inserir mais de um e-mail, basta separá-los por ponto e virgula sem espaçamento ( ; ). Ex: ciclanodetal@email.com.br;fulanodetal@email.com</p>
+<p class="hint">[Resposta em linha única]</p>
+<h3>EQUIPAMENTOS INSTALADOS:</h3>
+<p class="q">9. RAIOS X <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">10. TOMOGRAFIA COMPUTADORIZADA <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">11. MAMOGRAFIA <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">12. DENSITOMETRIA OSSEA <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">13. RESSONANCIA MAGNÉTICA <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">14. ULTRASSONOGRAFIA <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>Tipo de exames realizados:</h3>
+<p class="q">15. Realiza consultas no estabelecimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">16. A realização de exames de ultrassom está condicionada a realização da consulta no estabelecimento? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">17. Realiza exames de ultrassonografia para pacientes externos, mediante a apresentação de pedido médico, com emissão de laudos? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>ESTRUTURA FÍSICA</h3>
+<p class="q">18. As salas de exames de ultrassonografia, destinadas a realização de ultrassonografia abdominal possuem sanitário em anexo? (O mesmo sanitário pode atender a duas salas de exame) <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">19. Esse sanitário é de uso exclusivo dos pacientes que realizam os exames de ultrassonografia? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">20. As salas de exames possuem pias destinadas a lavagem de mãos dos profissionais? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>PROCEDIMENTOS</h3>
+<p class="q">21. Realiza punção aspirativa por agulha fina (PAAF) guiada por ultrassom? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<h3>RESÍDUOS GERADOS</h3>
+<p class="q">22. O estabelecimento  possui cadastro para coleta de resíduos de saúde junto ao SP REGULA, para descarte de material perfurocortantes? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">23. Acondiciona o lixo contaminado colocado em saco plástico branco leitoso. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<p class="q">24. Dispõe de caixas rígidas próprias para descarte dos materiais perfuro cortantes, tais como agulhas, lâminas de bisturi, identificadas pela simbologia de substância infectante. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<h3>DOCUMENTOS GERAIS / OUTROS</h3>
+<p class="q">25. Realiza a limpeza da caixa d’água de acordo com as normas da SABESP, com empresa licenciada. <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+</ul>
+<p class="q">26. Manual de rotinas e procedimentos da lavagem e desinfecção dos artigos reutilizáveis (ambus, máscaras e linhas de oxigênio etc)? <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista suspensa):</b></p><ul>
+<li>Sim</li>
+<li>Não</li>
+<li>N / A</li>
+</ul>
+<h3>Resolução RDC n° 611, de 09 de março de 2022</h3>
+<p class="sub">Instrução Normativa - IN n° 96 de 27 de maio de 2021<br>Resolução da Diretoria Colegiada RDC nº 222/18 - Regulamenta as Boas Práticas de Gerenciamento dos Resíduos de Serviços de Saúde e dá outras<br>Resolução RDC 63/2011 - Dispõe sobre os Requisitos de Boas Práticas de Funcionamento para os Serviços de Saúde.</p>
+<p class="q">27. Legislações e guias a serem consultados <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<p class="q">28. Declaração de Responsabilidade <span class="req">*</span></p>
+<p class="hint">Tipo: Múltipla escolha | Obrigatória</p>
+<p class="sub">Declaro estar ciente da obrigação de apresentar, a qualquer tempo, a documentação exigida para a exploração da atividade e de prestar todas as informações referentes ao funcionamento do estabelecimento, de forma a assegurar os controles necessários a serem exercidos pelo órgão sanitário municipal.Declaro comprometer-me com a preservação das melhores condições higiênico-sanitárias de instalações, equipamentos, procedimentos e fluxos, notadamente as boas práticas para o exercício da atividade e a adequada conservação dos produtos utilizados.<br>Declaro ainda estar ciente de que a prestação de declaração falsa configura crime previsto no Código Penal Brasileiro, passível de sanções penais, sem prejuízo das sanções administrativas e civis cabíveis.</p>
+<p><b>Opções (Lista de opções):</b></p><ul>
+<li>Ciente</li>
+</ul>
+<h2>Mensagem de agradecimento</h2>
+<p>Sua resposta foi enviada.<br>Caso não tenha recebido um e-mail automático, o mesmo foi inserido de maneira errada neste formulário.</p>
+</body></html>
